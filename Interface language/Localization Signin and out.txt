@@ -1,0 +1,60 @@
+My Account ངའི་ཐོ་གཞུང་།
+Sign In ནང་འཛུལ་བྱོས།
+Sign In ནང་འཛུལ་བྱོས།
+Sign Up ཐོ་གཞུང་གསར་བཟོ།
+Sign Up ཐོ་གཞུང་གསར་བཟོ།
+Sign Out ཕྱིར་ཐོན།
+Do you want to sign out?\n\nAny new highlights, notes and bookmarks will not be saved to your account. ཁྱེད་རང་ཕྱིར་ཐོན་བྱ་རྒྱུ་ཡིན་ནམ།\n\n ཁྱེད་ཀྱི་ཁ་བྱང་ནང་མཆན་བཏབ་པ་དང་འདེམས་རྟགས་བརྒྱབ་པ། དཔེ་རྟགས་གསར་བ་བཀོད་པའི་རིགས་གཅིག་ཀྱང་ཉར་ཚགས་མི་བྱེད།
+Your Name ཁྱེད་ཀྱི་མིང་།
+Email Address གློག་འཕྲིན་ཁ་བྱང་།
+Password གསང་ཚིག
+Comfirm Password གཏན་འཁེལ་གསང་ཚིག
+Forgot Password? གསང་ཚིག་བརྗེད་སོང་ངམ།
+Reset Password གསང་ཚིག་བསྐྱར་སྒྲིག
+Change Password གསང་ཚིག་བརྗེ།
+Current Password ད་ལྟའི་གསང་ཚིག
+New Password གསར་ཚིག་གསར་པ།
+Comfirm New Password གཏན་འཁེལ་གསང་ཚིག་གསར་པ།
+Change profile གནས་ཚུལ་བསྐྱར་བཅོས།
+Enter Password གསང་ཚིག་ཞོག
+Save Changes གསང་ཚིག་ཉོར།
+Delete Account ཐོ་གཞུང་སུབ།
+Do you want to delete your account?\n\nAll your saved highlights, notes and bookmarks will be deleted. ཁྱེད་ཀྱི་ཁ་བྱང་བསུབ་རྒྱུ་ཡིན་ནམ།\n\nཁྱེད་ཀྱིས་ཉར་ཚགས་བྱས་པའི་འདེམ་རྟགས་བརྒྱབ་པ་དང་མཆན་བཏབ་པ། དཔེ་རྟགས་བཀོད་པ་ཚང་མ་བསུབ་འགྲོ། 
+Sign In or Sign Up ནང་འཛུལ་བྱ་རྒྱུ་ཡིན་ནམ། ཡང་ན་ཐོ་གཞུང་གསར་བཟོ་བྱ་རྒྱུ་ཡིན།
+You can save your highlights, notes and bookmarks - and synchronize them with other devices. འདེམ་རྟགས་བཀོད་པ་དང་མཆན་བཏབ་པ་དཔེ་རྟགས་བཀོད་པ་བཅས་ཁྱེད་ཀྱིས་ཉར་ཚགས་བྱ་ཐུབ་ཅིང་། དེ་དག་འཕྲུལ་ཆས་གཞན་དང་མཐུད་ཀྱང་ཐུབ་པ་ཡིན།
+Your highlights, notes and bookmarks are being saved to your account when you are connected to the internet. ཁྱེད་དྲ་རྒྱ་ལ་མཐུད་དུས་ཁྱེད་ཀྱི་འདེམ་རྟགས་བཀོད་པ་དང་མཆན་བཏབ་པ་དཔེ་རྟགས་བརྒྱབ་པ་དང་བཅས་པ་ཁྱེད་ཀྱི་ཐོ་གཞུང་ནང་ཉར་འགྲོ།
+Please enter your name. ཁྱེད་ཀྱི་མིང་འབྲི་རོགས།
+Please enter a valid email address. ཁྱེད་ཀྱི་གློག་འཕྲིན་ཚུལ་མཐུན་ཞིག་འཇོག་རོགས།
+Please enter a valid password. Password must have at least six characters and can contain letters, numbers and punctuations. ཚུལ་མཐུན་གྱི་གསང་ཚིག་ཅིག་འཇོག་རོགས། གསང་ཚིག་ནང་གསལ་བྱེད་དང་ཨང་གྲངས་རྐྱེན་གྱི་ཡི་གེ་བཅས་འདུས་ཡོད་པའི་ཡིག་འབྲུ་ཉུང་མཐར་དྲུག་ངེས་པར་ཡོད་དགོས།
+Please enter your email address and password. ཁྱེད་ཀྱི་གློག་འཕྲིན་དང་གསང་ཚིག་འཇོག་རོགས།
+Your password confirmation did not match your new password. Please try again. ཁྱེད་ཀྱི་གཏན་འཁེལ་གསང་ཚིག་དེ་ཁྱེད་ཀྱི་གསང་ཚིག་གསར་པ་དང་མཚུངས་མ་སོང་། བསྐྱར་དུ་ཚོད་ལྟ་བྱ་རོགས།
+Sorry, we cannot find this email address and /or password. Please try agian. དགོངས་དག ང་ཚོས་གློག་འཕྲིན་འདི་དང་/ཡང་ན་གསང་ཚིག་གང་རུང་ཞིག་རྙེད་མ་སོང་། བསྐྱར་དུ་ཚོད་ལྟ་བྱ་རོགས།
+Sorry, we were unable to sign you in. དགོངས་དག ང་ཚོས་ཁྱེད་རང་ནང་འཇུག་བྱ་ཐུབ་མ་སོང་།
+Sorry, we were unable to sign you up. དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་ཐོ་གཞུང་གསར་བཟོ་བྱ་ཐུབ་མ་སོང་།
+Please report the following database error: གཤམ་གསལ་གྱི་གཞི་གྲངས་མཛོད་ཀྱི་གནད་དོན་ཡར་ཞུ་བྱ་རོགས།:
+Sorry, we were unable to change your password. དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་གསང་ཚིག་བརྗེ་ཐུབ་མ་སོང་།
+Sorry, we were unable to change your profile. དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་གནས་ཚུལ་བསྒྱུར་བཅོས་བྱ་ཐུབ་མ་སོང་།
+Sorry, we were unable to change your password. དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་གསང་ཚིག་བརྗེ་ཐུབ་མ་སོང་།
+Please check your internet connection. ཁྱེད་རང་སྐུད་མེད་དྲ་ལ་མཐུད་ཡོད་མེད་བལྟ་རོགས།
+We have sent you an email to reset your password. ང་ཚོས་ཁྱེད་ལ་གསང་ཚིག་བསྐྱར་སྒྲིག་བྱ་སའི་གློག་འཕྲིན་ཞིག་བཏང་ཡོད།
+This email address is already in use. གློག་འཕྲིན་འདི་ད་སྔ་ནས་འདིའི་ནང་བཀོལ་སྤྱོད་བྱས་འདུག
+Sorry, we were unable to delete your account. དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་ཐོ་གཞུང་བསུབ་ཐུབ་མ་སོང་།
+Your account was deleted successfully. ཁྱེད་ཀྱི་ཐོ་གཞུང་བདེ་ལེགས་ངང་བསུབས་ཡོད།
+Messages འཕྲིན་ཐུང་།
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
