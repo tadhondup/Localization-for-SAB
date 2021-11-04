@@ -1,0 +1,2872 @@
+# Interface Translations
+# Scripture App Builder 7.2
+# Created: 11-Sep-2020 15:18:28
+
+[Translations]
+
+$ Menu_Contents
+en: Contents
+fr: Contenu
+tr: İçindekiler
+id: Isi
+mal: ഉള്ളടക്കം
+es: Contenido
+pt: Conteúdo
+zh: 目录
+vi: Nội dung
+fa: فهرست
+ru: Содержание
+de: Inhalt
+az: Mündəricat
+ar: المحتوى
+hi: विषय-सूची
+te: విషయ సూచిక
+ko: 목차
+ms: Kandunga
+bo: དཀར་ཆག
+
+$ Menu_Search
+en: Search
+fr: Rechercher
+es: Buscar
+pt: Pesquisar
+ru: Поиск
+uk: Пошук
+tr: Arama
+id: Pencarian
+zh: 搜索
+mal: തിരയുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: البحث
+hi: खोज
+te: వెతకండి
+ko: 검색
+ms: Carian
+bo: འཚོལ།
+
+$ Menu_Layout
+en: Language & Layout
+fr: Langue et agencement
+tr: Dil ve Yerleşim
+id: Bahasa dan Tata Letak
+mal: ഭാഷയും ലേഔട്ടും
+es: Idioma y Diseño
+pt: Idioma & Layout
+zh: 语言布局
+vi: Ngôn ngữ & Trình bày
+fa: زبان و آرایش
+ru: Язык и разметка
+de: Sprache und Layout
+az: Dil və düzən
+ar: اللغة والتصميم
+hi: भाषा और लेआउट
+te: భాష మరియు విన్యాసం
+ko: 언어 & 배치
+bo: སྐད་ཡིག བར་འཇུག
+
+$ Menu_History
+en: History
+fr: Historique
+fa: سابقه
+ru: История
+es: Historia
+pt: Histórico
+de: Verlauf
+id: Sejarah
+az: Tarixçə
+ar: اللائحة
+hi: पुर्व मे देखि गयि वचन
+te: గతంలో చూసిన వాక్యం
+ko: 사용기록
+bo: ལོ་རྒྱུས།
+
+$ Menu_Settings
+en: Settings
+fr: Paramètres
+es: Configuraciones
+pt: Configurações
+ru: Настройки
+uk: Налаштування
+tr: Ayarlar
+zh: 设置
+id: Pengaturan
+mal: ക്രമീകരണങ്ങള്‍
+vi: Cài đặt
+fa: تنظیمات
+de: Einstellungen
+az: Parametrlər
+ar: إعدادات
+hi: सेटिंग्स
+te: సెట్టింగులు
+ko: 설정
+ms: Tetapan
+bo: སྒྲིག་འགོད།
+
+$ Menu_About
+en: About
+fr: A propos
+es: Acerca de
+pt: Sobre
+ru: О приложении
+uk: Про програму
+tr: Hakkında
+id: Seputar
+zh: 关于
+mal: കൂടുതല്‍ വിവരങ്ങള്‍
+vi: Về
+fa: درباره
+de: Impressum
+az: Haqqında
+ar: بخصوص
+hi: विषय
+te: విషయం
+ko: 정보
+ms: Tentang
+bo: འདིའི་སྐོར།
+
+$ Menu_Text_Appearance
+en: Text Appearance
+fr: Taille de police
+es: Tamaño del texto
+pt: Aparência do Texto
+ru: Внешний вид текста
+uk: Розмір тексту
+tr: Metin Görünüşü
+id: Ukuran teks
+zh: 文字大小
+mal: അക്ഷര ക്രമീകരണം
+vi: Hình thức văn bản
+fa: طرح متن
+de: Texteinstellungen
+az: Mətn Görüntü
+ar: مظهر الصفحات والنص
+hi: दिखावट
+te: వాక్య స్వరూపం
+ko: 글꼴 설정
+ms: Penampilan teks
+bo: ཡིག་གཟུགས་ཀྱི་རྣམ་པ།
+
+$ Menu_Share_App
+en: Share App
+fr: Partager application
+es: Compartir aplicación
+pt: Compartilhar Aplicativo
+tr: Uygulamayı Paylaş
+id: Bagikan aplikasi
+mal: ആപ്പ് ഷെയര്‍ ചെയ്യുക
+zh: 共享应用程序
+vi: Chia sẻ App
+fa: اشتراک گذاری نرم افزار
+ru: Поделиться приложением
+de: App weitergeben
+az: Tətbiqi paylaş
+ar: إشتراك التطبيقات
+hi: ऐप शेयर करें
+te: ఆప్ ని షెర్ చెయ్యండి
+ko: 공유
+ms: Kangsi App
+bo: མཉེན་ཆས་བརྒྱུད་སྐུར།
+
+$ Menu_Downloads
+en: Downloads
+bo: ཕབ་ལེན།
+
+$ Menu_Edit
+en: Edit
+fr: Editer
+es: Editar
+pt: Editar
+ru: Редактировать
+uk: Редаргувати
+tr: Düzenle
+id: Sunting
+zh: 编辑
+mal: തിരുത്തുക
+vi: Chỉnh sửa
+fa: ویرایش
+de: Bearbeiten
+az: Redaktə
+ar: التحرير
+hi: सम्पादित
+te: ఎడిట్
+ko: 편집
+ms: Menyunting
+bo: རྩོམ་སྒྲིག
+
+$ Menu_Users_Add
+en: Add User
+fr: Ajouter utilisateur
+pt: Adicionar Usuário
+zh: 添加用户
+ru: Добавить пользователя
+id: Menambah Pengguna
+ar: إضافة مستخدم
+hi: उपयोगकर्ता जोड़ें
+te: వినియోగదారులను చేర్చండి
+ko: 사용자 추가
+es: Añadir usuario
+bo: སྤྱོད་མཁན་སྟོན།
+
+$ Menu_Users_List
+en: Users
+fr: Utilisateurs
+pt: Usuários
+zh: 用户
+ru: Пользователи
+es: Usuarios
+id: Pengguna
+ar: المستخدمين
+hi: उपयोगकर्ताओं
+te: వినియోగదారులు
+ko: 사용자
+bo: སྤྱོད་མཁན།
+
+$ Menu_Home
+en: Home
+fr: Accueil
+tr: Ev
+id: Beranda
+mal: ഹോം
+es: Bienvenido
+pt: Página Inicial
+zh: 首页
+vi: Trang chủ
+fa: خانه
+ru: Главная
+de: Startseite
+az: Başlanğıc
+ar: إستقبال
+hi: होम
+te: హోమ్
+ko: 초기화면
+ms: Muat Turun
+bo: མདུན་ངོས།
+
+$ Annotation_Bookmarks
+en: Bookmarks
+fr: Signets
+tr: Yer imleri
+id: Bookmark
+mal: ബുക്ക് മാർക്കുകൾ
+es: Marcadores
+pt: Favoritos
+zh: 书签
+vi: Làm dấu
+fa: نشانه ها
+ru: Закладки
+de: Lesezeichen
+az: Əlfəcinlər
+ar: إشارات مرجعية
+hi: बुक मार्क
+te: బుక్ మార్క్స్
+ko: 책갈피
+bo: དཔེ་རྟགས།
+
+$ Annotation_Highlights
+en: Highlights
+fr: Surlignements
+tr: Önemli Noktalar
+id: Highlight
+mal: ഹൈലൈറ്റുകൾ
+es: Resaltados
+pt: Destaques
+zh: 突出
+vi: Làm nổi bật
+fa: نکات برجسته
+ru: Выделенный текст
+de: Farbmarkierungen
+az: Vurğulamalar
+ar: النقاط الرئيسية
+hi: प्रमुख्ताएं
+te: ప్రత్యేకతలు
+ko: 하이라이트
+bo: འདེམ་རྟགས།
+
+$ Annotation_Notes
+en: Notes
+fr: Notes
+es: Notas
+tr: Notlar
+id: Catatan
+mal: കുറിപ്പുകള്‍
+pt: Notas
+zh: 注释
+vi: Ghi chú
+fa: یادداشت ها
+ru: Заметки
+de: Notizen
+az: Qeydlər
+ar: ملاحظات
+hi: टिप्पणियाँ
+te: గమనికలు
+ko: 노트
+bo: མཆན།
+
+$ Annotation_Note_Add
+en: Add Note
+fr: Ajouter note
+tr: Not Ekle
+id: Menambahkan catatan
+mal: കുറിപ്പുകള്‍ ചേര്‍ക്കുക
+es: Añadir Nota
+pt: Adicionar Nota
+zh: 添加注释
+vi: Thêm ghi chú
+fa: اضافه کردن یادداشت
+ru: Добавить заметку
+de: Notiz hinzufügen
+az: Qeydlər et
+ar: إضافة ملاحظات
+hi: नोट जोड़ें
+te: గమనికను జోడించండి
+ko: 노트 추가
+bo: མཆན་ཞོག
+
+$ Annotation_Note_Edit
+en: Edit Note
+fr: Modifier note
+tr: Notu Düzenle
+id: Edit Catatan
+mal: കുറിപ്പുകള്‍ തിരുത്തുക
+es: Editar nota
+pt: Editar Nota
+zh: 注释
+vi: Sửa ghi chú
+fa: ویرایش یادداشت
+ru: Редактировать заметку
+de: Notiz bearbeiten
+az: Qeydləri Redaktə et
+ar: تعديل الملاحظات
+hi: नोट सम्पादित करें
+te: నోట్ మార్చు
+ko: 노트 편집
+bo: མཆན་སྒྲིག
+
+$ Annotation_Menu_View
+en: View
+fr: Voir
+tr: Görünüm
+id: Melihat
+mal: കാണുക
+es: Ver
+pt: Visualizar
+zh: 编辑注释
+vi: Xem
+fa: نمایش
+ru: Посмотреть
+de: Ansicht
+az: Bax
+ar: مشاهدة
+hi: अवलोकन
+te: పరిశీలన
+ko: 보기
+bo: སྟོན།
+
+$ Annotation_Menu_Delete
+en: Delete
+fr: Supprimer
+tr: Sil
+id: Menghapus
+mal: നീക്കം ചെയ്യുക
+es: Borrar
+pt: Excluir
+zh: 删除
+vi: Xóa
+fa: حذف کردن
+ru: Удалить
+de: Löschen
+az: Sil
+ar: حذف
+hi: डिलीट
+te: తొలగించు
+ko: 삭제
+bo: སུབ།
+
+$ Annotation_Menu_Edit
+en: Edit
+fr: Modifier
+tr: Düzenle
+id: Edit
+mal: തിരുത്തുക
+es: Editar
+pt: Editar
+zh: 编辑
+vi: Chỉnh sửa
+fa: ویرایش
+ru: Редактировать
+de: Bearbeiten
+az: Redaktə
+ar: تعديل
+hi: संपादन
+te: మార్పులు చెయ్యి
+ko: 편집
+bo: རྩོམ་སྒྲིག
+
+$ Annotation_Menu_Share
+en: Share
+fr: Partager
+tr: Paylaş
+id: Bagikan
+mal: ഷെയര്‍ ചെയ്യുക
+es: Compartir
+pt: Compartilhar
+zh: 共享
+vi: Chia sẻ
+fa: اشتراک گذاری
+ru: Поделиться
+de: Teilen
+az: Paylaş
+ar: مشاركة
+hi: बँटे
+te: పంచడం
+ko: 공유
+bo: བརྒྱུད་སྐུར།
+
+$ Annotation_Sort_Order_Reference
+en: By Reference
+fr: Par référence
+tr: Referansa göre
+id: Oleh referensi
+mal: റഫറൻസ് പ്രകാരം
+es: Por Referencia
+pt: Por Referência
+zh: 按参考
+vi: Theo tham chiếu
+fa: بر اساس مرجع
+ru: По ссылке
+de: Nach Referenz
+az: İstinad görə sırala
+ar: على أساس المرجع
+hi: संदर्भ से
+te: రెఫెరెన్సును బట్టి
+ko: 참고문헌별
+bo: དཔྱད་གཞི་ལྟར།
+
+$ Annotation_Sort_Order_Date
+en: By Date
+fr: Par date
+tr: Tarihe göre
+id: Oleh tanggal
+mal: തീയതി പ്രകാരം
+es: Por fecha
+pt: Por Data
+zh: 按日期
+vi: Theo ngày
+fa: بر اساس زمان
+ru: По дате
+de: Nach Datum
+az: Tarixə görə sırala
+ar: حسب التاريخ
+hi: तिथि के अनुसार
+te: తేదీని బట్టి
+ko: 날짜별
+bo: ཟླ་ཚེས་ལྟར།
+
+$ Annotation_Sort_Order_Color
+en: By Color
+fr: Par couleur
+tr: Renge göre
+id: Oleh Warna
+mal: നിറം പ്രകാരം
+es: Por Color
+pt: Por Cor
+zh: 按颜色
+vi: Theo màu
+fa: بر اساس رنگ
+ru: По цвету
+de: Nach Farbe
+az: Rəngi ​​ilə
+ar: على طريقة الألوان
+hi: रंग से
+te: రంగులను బట్టి
+ko: 색깔별
+bo: ཚོན་མདོག་ལྟར།
+
+$ Button_OK
+en: OK
+fr: OK
+es: OK
+pt: OK
+ru: OK
+uk: OK
+tr: Tamam
+zh: 行
+id: OK
+mal: ഓക്കേ
+vi: OK
+fa: موافق
+de: OK
+az: OK
+ar: موافق
+hi: ठीक
+te: ఓకే
+ko: OK
+ms: OK
+bo: OK
+
+$ Button_Yes
+en: Yes
+fr: Oui
+es: Si
+pt: Sim
+ru: Да
+uk: Так
+tr: Evet
+zh: 是
+id: Ya
+mal: അതെ
+vi: Đồng ý
+fa: بله
+de: Ja
+az: Bəli
+ar: نعم
+hi: हाँ
+te: అవును
+ko: 예
+ms: Ya
+bo: Yes
+
+$ Button_No
+en: No
+fr: Non
+es: No
+pt: Não
+ru: Нет
+uk: Ні
+tr: Hayır
+zh: 不是
+id: Tidak
+mal: അല്ല
+vi: Không
+fa: خیر
+de: Nein
+az: Xeyr
+ar: لا
+hi: नहीं
+te: కాదు
+ko: 아니오
+ms: Tidak
+bo: No
+
+$ Button_Close
+en: Close
+fr: Fermer
+es: Cerrar
+pt: Fechar
+ru: Закрыть
+uk: Закрити
+tr: Kapat
+id: Tutup
+zh: 关闭
+mal: അടയ്ക്കുക
+vi: Đóng
+fa: بستن
+de: Schließen
+az: Bağla
+ar: غلق
+hi: बंद
+te: మూసి వెయ్యి
+ko: 닫기
+ms: Tutup
+bo: ཁ་རྒྱོབ།
+
+$ Button_Cancel
+en: Cancel
+fr: Annuler
+es: Cancelar
+pt: Cancelar
+ru: Отменить
+uk: Скасувати
+tr: İptal etmek
+id: Batal
+zh: 取消
+mal: ക്യാന്‍സല്‍ ചെയ്യുക
+vi: Hủy
+fa: لغو کردن
+de: Beenden
+az: Ləğv et
+ar: إلغاء
+hi: निरस्त
+te: రద్దు చెయ్యి
+ko: 취소
+ms: Batal
+bo: ཕྱིར་འཐེན།
+
+$ Button_Share
+en: Share
+bo: བརྒྱུད་སྐུར།
+
+$ Button_Start
+en: Start
+fr: Commencer
+es: Iniciar
+ms: Mula
+ru: Начать
+bo: འགོ་རྩོམ།
+
+$ Button_Submit
+en: Submit
+fr: Soumettre
+tr: Gönder
+id: Kirim
+mal: സമർപ്പിക്കുക
+es: Aceptar
+pt: Enviar
+zh: 提交
+vi: Gửi
+fa: ارسال
+ru: Отправить
+de: Absenden
+az: Təqdim et
+ar: عرض
+hi: प्रस्तुत
+te: సమర్పించండి
+ko: 제출
+ms: Kemukakan
+bo: ཞུ་འབུལ།
+
+$ Button_Sign_Up
+en: Sign Up
+fr: S'inscrire
+ms: Daftar
+es: Inscríbete
+ru: Зарегистрироваться
+bo: ཐོ་གཞུང་བཟོ།
+
+$ Button_Skip
+en: Skip
+es: Omitir
+ru: Пропустить
+bo: ཕར་མཆོང་།
+
+$ Button_Read
+en: Read
+bo: ཀློག
+
+$ Button_Listen
+en: Listen
+bo: ཉན།
+
+$ Button_Create_Image
+en: Create Image
+
+$ Date_Today
+en: Today
+fr: Aujourd'hui
+es: Hoy
+pt: Hoje
+fa: امروز
+ru: Сегодня
+de: Heute
+id: Hari ini
+az: Bugün
+ar: اليوم
+hi: आज
+te: ఈ రోజు
+ko: 오늘
+ms: Hantar
+bo: དེ་རིང་།
+
+$ Date_Yesterday
+en: Yesterday
+fr: Hier
+es: Ayer
+pt: Ontem
+fa: دیروز
+ru: Вчера
+de: Gestern
+id: Kemarin
+az: Dünən
+ar: الأمس
+hi: कल
+te: నిన్నటి రోజు
+ko: 어제
+ms: Semalam
+bo: ཁ་སང་།
+
+$ Grandroid_Load_Fail
+en: Sorry, the text may not display correctly on this device.
+fr: Désolé, le texte peut ne pas s'afficher correctement sur cet appareil.
+es: Lamentablemente el texto no puede mostrarse correctamente en este dispositivo.
+pt: Sinto muito, mas o texto talvéz não exiba corretamente neste dispositivo.
+ru: Извините, на этом устройстве текст может отображаться некорректно
+uk: Вибачте, текст може відображатися некоректно на цьому пристрої
+tr: Üzgünüz, metin bu cihazda doğru şekilde görüntülenmeyebilir.
+zh: 文本无法在此设备上正确地显示。
+id: Maaf, mungkin teks tidak akan ditampilkan dengan benar pada alat ini.
+mal: ക്ഷമിക്കണം, അക്ഷരങ്ങള്‍ ഈ ഉപകരണത്തിൽ ശരിയായി ദൃശ്യമാകില്ലായിരിക്കാം.
+vi: Xin lỗi, bản văn có thể không hiển thị chính xác trên thiết bị này.
+fa: متاسفم، امکان دارد این برنامه در دستگاه شما به درستی اجرا نشود
+de: Verzeihung, eventuell wird der Text auf diesem Gerät nicht korrekt angezeigt.
+az: Üzr istəyirik, mətn bu cihazda düzgün görünmür.
+ar: عذرا،قد لا يتم عرض هذا النص بشكل صحيح في هذا الجهاز
+hi: क्षमा करें, यह इस साधन पर सही तरीके से प्रदर्शित नहीं होगा।
+te: క్షమించండి, ఈ పరికరంలో వాక్యం సరిగ్గా కనిపించకపోవచ్చు.
+ko: 죄송합니다. 이 기기에서는 본문이 정상적으로 보이지 않을 수 있습니다.
+ms: Maaf, mesej mungkin tidak dipaparkan dengan betul pada peranti ini.
+bo: དགོངས་དག འདི་ནས་དཔེ་ཆ་དེ་ཕལ་ཆེར་སྒྲིག་ཆས་འདིའི་སྒང་ཚད་ལྡན་ཞིག་སྟོན་ཐུབ་ས་མ་རེད།
+
+$ Grandroid_Load_Fail_42_43_Intel
+en: Sorry, the text may not display correctly on Intel devices for Android 4.2 or 4.3.
+fr: Désolé, le texte peut ne pas s'afficher correctement sur les appareils Intel pour Android 4.2 ou 4.3.
+es: Lamentablemente el texto no puede mostrarse correctamente en dispositivos Intel para Android 4.2 o 4.3.
+pt: Sinto muito, mas o texto talvéz não exiba corretamente em dispositivos Intel com Android 4.2 ou 4.3.
+ru: Извините, на устройствах на базе Intel + Android 4.2 или 4.3 текст может отображаться некорректно
+uk: Вибачте, текст може відображатися некоректно на пристроях Intel під керуванням Android 4.2 або 4.3
+tr: Üzgünüz, metin Android 4.2 veya 4.3 için Intel cihazlarda doğru görüntülenmeyebilir.
+zh: 文本无法为安卓4.2或4.3的英特尔设备上正确地显示。
+id: Maaf, mungkin teks tidak akan ditampilkan dengan benar pada alat dengan CPU Intel dan Android 4.2/4.3.
+mal: ക്ഷമിക്കണം, Android 4.2 അല്ലെങ്കിൽ 4.3 ഉള്ള ഇന്റൽ ഉപകരണങ്ങളിൽ അക്ഷരങ്ങള്‍ ശരിയായ രീതിയിൽ ദൃശ്യമാകില്ലായിരിക്കാം.
+vi: Xin lỗi, bản văn có thể không hiển thị chính xác trên thiết bị Intel vì dùng Android 4.2 hoặc 4.3.
+fa: متاسفم، امکان دارد این برنامه در دستگاه شما به درستی اجرا نشود
+de: Verzeihung, eventuell wird der Text auf Intel Geräten mit Android 4.2 oder 4.3 nicht korrekt angezeigt.
+az: Üzr istəyirik, mətn Android 4.2 və ya 4.3 üçün Intel cihazlarında düzgün görünmür.
+ar: عذراً، يحتمل عدم ضهور النص بشكل سليم. عذرا،قد لا يتم عرض هذا النص بشكل صحيح على أجهزة انتل   لأندرويد 4.2 و 4.3
+hi: क्षमा करें, यह इस एंड्राइड 4.2 या 4.3 के लिए इंटेल के साधन पर ठीक से प्रदर्शित नहीं हो सकता है
+ko: 죄송합니다. 안드로이드 4.2 혹은 4.3 버전을 지원하는 인텔 기기에서는 본문이 정상적으로 보이지 않을 수 있습니다.
+ms: Maaf, mesej mungkin tidak dipaparkan dengan betul pada peranti Intel untuk Android 4.2 atau 4.3.
+bo: དགོངས་དག ཨིན་ཌོ་ 4.2 ཡང་ན་ 4.3 འདིའི་ནང་གི་Intel སྒྲིག་ཆས་འདིའི་སྒང་ནས་ཡིག་ཆ་དེ་ཚད་ལྡན་ཞིག་སྟོན་ཐུབ་ས་མ་རེད།
+
+$ Grandroid_Load_Fail_42_43_Other
+en: Sorry, the text may not display correctly on this device for Android 4.2 or 4.3.
+fr: Désolé, le texte peut ne pas s'afficher correctement sur cet appareil pour Android 4.2 ou 4.3.
+es: Lamentablemente el texto no puede mostrarse correctamente en dispositivos Intel para Android 4.2 o 4.3.
+pt: Sinto muito, mas o texto talvéz não exiba corretamente neste dispositivo com Android 4.2 ou 4.3.
+ru: Извините, текст может отображаться некорректно, если данное устройство работает под управлением ОС Android 4.2 или 4.3.
+uk: Вибачте, текст може відображатися некоректно, якщо цей пристрій працює під керуванням ОС Android 4.2 або 4.3.
+tr: Üzgünüz, metin bu cihazda Android 4.2 veya 4.3 için doğru şekilde görüntülenmeyebilir.
+zh: 文本无法为安卓4.2或4.3的设备上正确地显示。
+id: Maaf, mungkin teks tidak akan ditampilkan dengan benar pada alat Android 4.2/4.3 ini.
+mal: ക്ഷമിക്കണം, Android 4.2 അല്ലെങ്കിൽ 4.3 ഉള്ള ഉപകരണങ്ങളിൽ അക്ഷരങ്ങള്‍ ശരിയായ രീതിയിൽ ദൃശ്യമാകില്ലായിരിക്കാം.
+vi: Xin lỗi, bản văn có thể không hiển thị chính xác trên thiết bị này vì dùng Android 4.2 hoặc 4.3.
+fa: متاسفم، امکان دارد این برنامه در دستگاه شما به درستی اجرا نشود
+de: Verzeihung, eventull wird der Text auf diesem Gerät mit Android 4.2 oder 4.3 nicht korrekt angezeigt.
+az: Üzr istəyirik, mətn Android 4.2 və ya 4.3 üçün bu cihazda düzgün görünmür.
+ar: عذرا،قد لا يتم عرض هذا النص بشكل صحيح على هذا الجهاز  لأندرويد 4.2 و 4.3
+hi: क्षमा करें, इस साधन  पर एंड्रॉइड 4.2 या 4.3 के लिए ठीक से प्रदर्शित नहीं होगा।
+ko: 죄송합니다. 안드로이드 4.2 혹은 4.3 버전을 지원하는 기기에서는 본문이 정상적으로 보이지 않을 수 있습니다.
+ms: Maaf, mesej mungkin tidak dipaparkan dengan betul pada peranti ini untuk Android 4.2 atau 4.3.
+bo: དགོངས་དག ཨིན་ཌོ་ 4.2 ཡང་ན་ 4.3 འདིའི་ནང་གི་སྒྲིག་ཆས་འདིའི་སྒང་ནས་ཡིག་ཆ་དེ་ཚད་ལྡན་ཞིག་སྟོན་ཐུབ་ས་མ་རེད།
+
+$ Search
+en: Search
+fr: Recherche
+es: Buscar
+pt: Pesquisar
+ru: Поиск
+uk: Пошук
+tr: Ara
+id: Pencarian
+zh: 搜索
+mal: തിരയുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: بحث
+hi: खोज
+te: వెతకు
+ko: 검색
+ms: Carian
+bo: འཚོལ།
+
+$ Search_Text_Hint
+en: Search
+fr: Recherche
+es: Buscar
+pt: Pesquisar
+ru: найти...
+uk: знайти...
+tr: Ara
+id: Pencarian
+zh: 搜索
+mal: മലയാളത്തില്‍ ടൈപ്പ് ചെയ്യുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: بحث
+hi: खोज
+te: పదాలను వెతకు
+ko: 검색
+ms: Carian
+bo: འཚོལ།
+
+$ Search_Match_Whole_Words
+en: Match whole words
+fr: Mots entiers
+es: Coincidir Palabras Completas
+pt: Apenas Palavras Inteiras
+ru: Слова целиком
+uk: Цілі слова
+tr: Sözcukleri eşleştir
+id: Mencari kata lengkap
+zh: 全字匹配
+mal: മുഴുവൻ വാക്കുകള്‍ പൊരുത്തപ്പെടുക
+vi: Trùng khớp toàn bộ từ ngữ
+fa: تطبیق کل واژه
+de: Ganze Wörter
+az: Bütöv sözləri uyğunlaşdır
+ar: كلمات بالكامل
+hi: पूरे शब्दों से मिलान करें
+te: పూర్తి పదాలను వెతకు
+ko: 모든 단어 대조
+ms: Padan semua perkataan
+bo: ཚིག་ཆ་ཚང་མཚུངས་པ།
+
+$ Search_Match_Accents
+en: Match accents and tones
+fr: Accents et tons
+es: Coincidir Acentos y tonos
+pt: Diferenciar acentos e tons
+ru: С учётом ударений и тонов
+uk: З урахуванням знаків наголосу й тонів
+tr: Vurguları ve tonları eşleştir
+id: Aksen dan bunyi harus sesuai
+zh: 比赛的口音和色调
+mal: ഉച്ചാരണവും, ശബ്‌ദവും പൊരുത്തപ്പെടുക
+vi: Trùng khớp dấu
+fa: تطبیق آواها
+de: Akzente und Töne einbeziehen
+az: Vurğu və tonları uyğunlaşdır
+ar: اللهجة والسياق
+hi: भाषा और सुर को मिलाये
+ko: 억양과 어조 대조
+ms: Pandankan loghart dan nada
+bo: སྒྲ་གདངས་དང་བརྗོད་ཤུགས་ཆ་ཚང་མཚུངས་པ།
+
+$ Search_Searching
+en: Searching...
+fr: Recherche en cours...
+es: Buscando...
+pt: Pesquisando...
+ru: Идёт поиск...
+uk: Пошук триває...
+tr: Aranıyor...
+id: Mencari...
+zh: 正在搜索…
+mal: തിരയുന്നു...
+vi: Đang tìm kiếm...
+fa: جستجو...
+de: Suche läuft...
+az: Axtarış
+ar: بحث جاري
+hi: खोज रहा है.…
+te: వెతకడం జరుగుతుంది....
+ko: 검색중...
+ms: Mencari...
+bo: འཚོལ་བཞིན་པ་་་
+
+$ Search_Number_Found
+en: Found: %,d
+fr: Nombre : %,d
+es: Encontrados: %,d
+pt: Encontrado: %,d
+ru: Найдено: %,d
+uk: Знайдено: %,d
+tr: Bulundu: %,d
+id: Ditemukan: %,d
+zh: 找到 %,d
+mal: %,d ഇടങ്ങളില്‍ കണ്ടെത്തി
+vi: Đã tìm: %,d
+fa: %,d پیدا شد
+de: Gefunden: %,d
+az: Tapıldı: %,d
+ar: %,d عدد
+hi: %,d मिला
+te: %,d దొరికినవి
+ko: 검색결과: %,d
+ms: Jumpa: %,d
+bo: རྙེད་པ་%
+
+$ Search_No_Matches_Found
+en: No matches found
+fr: Aucun résultat trouvé
+es: No hay ninguna coincidencia
+pt: Nenhum resultado encontrado
+ru: Ничего не найдено
+uk: Немає відповідників
+tr: Hiçbir sonuç bulunamadı
+id: Tidak ditemukan
+zh: 没有找到匹配
+mal: ഒന്നും കണ്ടെത്താന്‍ പറ്റിയില്ല
+vi: Không có sự trùng khớp nào được tìm thấy
+fa: پیدا نشد
+de: Keine Treffer gefunden
+az: Uyğun olan tapılmadı
+ar: لم يتم العثور على تطابقات
+hi: कोई मेल नहीं मिले
+te: పోలికలు దొరకలేదు
+ko: 찾을 수 없음
+ms: Tida pad anan
+bo: འདྲ་བོ་ཞིག་མི་འདུག
+
+$ Search_Again_Button
+en: Search
+fr: Recherche
+es: Buscar
+pt: Pesquisar
+ru: Искать
+uk: Шукати
+tr: Ara
+id: Cari
+zh: 搜索
+mal: വീണ്ടും തിരയുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: بحث
+hi: खोज
+te: వెతకు
+ko: 검색
+ms: Carian
+bo: འཚོལ།
+
+$ Search_Cancel_Button
+en: Cancel
+fr: Annuler
+es: Cancelar
+pt: Cancelar
+ru: Отменить
+uk: Скасувати
+tr: İptal etmek
+id: Batal
+zh: 取消
+mal: ക്യാന്‍സല്‍ ചെയ്യുക
+vi: Hủy
+fa: لغو
+de: Beenden
+az: Ləğv et
+ar: إلغاء
+hi: निरस्त करना
+te: రద్దు చెయ్యి
+ko: 취소
+ms: Batal
+bo: ཕྱིར་འཐེན།
+
+$ Audio_Download_Title
+en: Audio Download
+fr: Téléchargement audio
+es: Descarga de audio
+pt: Download de Áudio
+ru: Загрузка аудио
+uk: Завантаження аудіо
+tr: Ses İndir
+zh: 音频下载
+id: Mengunduh audio
+mal: ഓഡിയോ ഡൌണ്‍ലോഡ്
+vi: Tải tiếng
+fa: دانلود صوتی
+de: Audio-Download
+az: Audio yükləmə
+ar: تحميل الصوت
+hi: ऑडियो डाउनलोड
+te: ఆడియో డౌన్లోడ్
+ko: 오디오 파일 내려받기
+ms: Muat turun audio
+bo: སྒྲ་ཕབ་ལེན།
+
+$ Audio_Download_Confirm
+en: Download audio file?
+fr: Télécharger fichier audio ?
+es: ¿Descargar archivo de audio?
+pt: Baixar arquivo de áudio?
+ru: Загрузить аудио файл?
+uk: Завантажити аудіо файл?
+tr: Ses dosyasını indirmek istiyor musun?
+zh: 下载音频文件吗？
+id: Apakah mau mengunduh file audio?
+mal: ഓഡിയോ ഫയൽ ഡൗൺലോഡു ചെയ്യണോ?
+vi: Tải file tiếng?
+fa: آیا تمایل به دانلود فایل صوتی دارید؟
+de: Audiodatei herunterladen?
+az: Audio faylı yükləmək?
+ar: تحميل الملف الصوتي
+hi: ऑडियो पंक्ति डाउनलोड
+te: ఆడియో ఫైల్ డౌన్లోడ్ చేయాలా?
+ko: 오디오 파일을 내려 받으시겠습니까?
+ms: Muat turun fail audio
+bo: སྒྲའི་ཡིག་ཆ་ཕབ་ལེན་བྱ་རྒྱུ་ཡིན་ནམ།
+
+$ Audio_Download_Auto
+en: Download automatically from now on
+fr: Télécharger automatiquement à partir de maintenant
+es: Descargar audio automáticamente a partir de ahora
+pt: Baixar automaticamente daqui para a frente
+ru: В дальнейшем загружать автоматически
+uk: Надалі завантажувати автоматично
+tr: Bundan sonra otomatik olarak indir
+zh: 后来自动下载
+id: Selalu mengunduh secara otomatis
+mal: ഇനി മുതല്‍ ചോദിക്കാതെ ഡൌണ്‍ലോഡ് ചെയ്യുക
+vi: Tải tự động kể từ lúc này
+fa: از این به بعد دانلود صوتی بصورت اتوماتیک انجام شود
+de: Ab jetzt automatisch herunterladen
+az: İndi avtomatik olaraq yüklə
+ar: التحميل بصورة الية منذ الأن
+hi: स्वचालित रूप से अब से डाउनलोड करें
+te: ఇప్పటి నుండి ఆటోమేటిక్గా డౌన్లోడ్
+ko: 지금부터 자동으로 내려 받습니다.
+ms: Muat turun secara automatik dari sekarang
+bo: ད་ནས་རང་འགུལ་གྱིས་ཕབ་ལེན་བྱེད།
+
+$ Audio_Download_Connect
+en: To download audio files, please connect to the internet.
+fr: Pour télécharger les fichiers audio, veuillez vous connecter à l'internet
+es: Para descargar archivos de audio, por favor conectese a internet
+pt: Para baixar arquivos de áudio, favor conectar à Internet.
+ru: Для загрузки аудиофайлов, пожалуйста, подключитесь к интернету
+uk: Щоб завантажити аудіо файли, будь ласка, під'єднайтеся до інтернету
+tr: Ses dosyalarını indirmek için, lütfen internete bağlanın.
+zh: 下载的音频文件，请连接到互联网。
+id: Untuk mengunduh audio, harus konek ke internet
+mal: ഓഡിയോ ഡൌണ്‍ലോഡ് ചെയ്യാന്‍ ഇന്റര്‍നെറ്റ്‌ ആവശ്യമാണ്‌
+vi: Để tải file tiếng, vui lòng kết nối mạng.
+fa: برای دانلود فایل های صوتی، لطفا به اینترنت متصل شوید.
+de: Um die Audiodateien herunterzuladen, bitte mit dem Internet verbinden.
+az: Audio faylları yükləmək üçün İnternetə qoşul.
+ar: لتحميل الملفات الصوتية، الرجاء الإتصال بلأنترنت.
+hi: ऑडियो फ़ाइलों को डाउनलोड करने के लिए, कृपया इंटरनेट से कनेक्ट करें
+te: ఆడియో ఫైల్లను డౌన్లోడ్ చేయడానికి, దయచేసి ఇంటర్నెట్కు కనెక్ట్ చేయండి.
+ko: 오디오 파일을 내려 받으려면, 인터넷에 접속하세요.
+bo: ཡིག་ཆ་ཕབ་ལེན་བྱེད་ན་དྲ་རྒྱར་མཐུད་དགོས།
+
+$ Audio_Download_Error
+en: Download Error:
+fr: Erreur de téléchargement :
+es: Error de descarga:
+pt: Erro no Download
+ru: Ошибка загрузки
+uk: Помилка завантаження
+tr: İndirme hatası:
+zh: 下载错误：
+id: Error mengunduh:
+mal: ഡൌണ്‍ലോഡ് ശരിയായില്ല:
+vi: Lỗi tải:
+fa: خطا در دانلود
+de: Fehler beim Herunterladen:
+az: Yükləmə səhvi
+ar: خطأ في التنزيل
+hi: डाउनलोड त्रुटि
+te: డౌన్లోడ్ లోపం
+ko: 내려받기 오류
+bo: ཕབ་ལེན་ལ་གནད་དོན་བྱུང་སོང་།
+
+$ Audio_Download_Timeout
+en: Timed out connecting to audio server.
+fr: Délai de connexion au serveur audio.
+bo: སྒྲའི་གསོག་སྣོད་ལ་མཐུད་པའི་དུས་ཚོད་ཡོལ་སོང་།
+
+$ Audio_Downloading
+en: Downloading %book %chapter...
+fr: Téléchargement de %book %chapter...
+es: Descargando %book %chapter...
+pt: Baixando %book %chapter...
+ru: Загружается %book %chapter...
+uk: Завантажується %book %chapter...
+tr: %book %chapter indiriliyor...
+zh: 正在下载 %book %chapter...
+id: Sedang mengunduh %book %chapter...
+mal: %book %chapter ഡൌണ്‍ലോഡ് ചെയ്തു കൊണ്ടിരിക്കുന്നു...
+vi: Đang tải %book %chapter...
+fa: در حال دانلود
+de: Heruntergeladen %book %chapter
+az: Kitab fəslinin yüklənməsi...
+ar: تحميل %book%chapter
+hi: %book %chapter डाउनलोड कर रहा है ..
+te: %పుస్తకం %అధ్యాయము డౌన్లోడ్ చేస్తోంది ...
+ko: % %장 내려받는 중...
+ms: Muat turun %book %chapter...
+bo: ཕབ་ལེན་བྱེད་བཞིན་པའི་དཔེ་ཆའི་བརྒྱ་ཆ་% ལེའུའི་བརྒྱ་ཆ་%....
+
+$ Audio_Check_Connection
+en: Please check your internet connection.
+fr: Veuillez vérifier votre connexion internet
+es: Por favor revise su conexión a Internet
+pt: Favor verificar a sua conexão à Internet.
+ru: Пожалуйста, проверьте интернет-соединение
+uk: Будь ласка, перевірте інтернет з'єднання
+tr: Lütfen internet bağlantınızı kontrol edin.
+zh: 请检查您的网络连接。
+id: Harap memeriksa koneksi internet.
+mal: ദയവായി നിങ്ങളുടെ ഇന്റര്‍നെറ്റ്‌  കണക്ഷന്‍ ചെക്ക്‌ ചെയ്യുക
+vi: Vui lòng kiểm tra kết nối mạng.
+fa: لطفا اتصال اینترنت را برسی کنید
+de: Bitte überprüfen Sie Ihre Internetverbindung.
+az: İnternet bağlantınızı yoxlayın
+ar: الرجاء التحقق من اتصالك بالإنترنت
+hi: कृपया अपने इंटरनेट कनेक्शन की जाँच करें।
+te: దయచేసి మీ ఇంటర్నెట్ కనెక్షన్ తనిఖీ చేయండి.
+ko: 인터넷 연결을 확인하십시오.
+ms: Sila semak sambungan internet anda
+bo: དྲ་རྒྱར་མཐུད་ཡོད་མེད་ལྟོས་དང་།
+
+$ Audio_File_Not_Found
+en: Audio file not found
+fr: Fichier audio introuvable
+es: Archivo de audio no encontrado
+pt: Arquivo de áudio não encontrado
+ru: Аудиофайл не найден
+uk: Аудіо файл не знайдено
+tr: Ses dosyası bulunamadı
+zh: 找不到音频文件
+id: Audio tidak ditemukan
+mal: ഓഡിയോ ഫയല്‍ കണ്ടെത്തിയില്ല
+vi: File tiếng không được tìm thấy.
+fa: فایل صوتی یافت نشد
+de: Audiodatei wurde nicht gefunden.
+az: Audio fayl tapılmadı
+ar: الملف الصوتي غير موجود
+hi: ऑडियो फ़ाइल नहीं मिली
+te: ఆడియో ఫైల్ దొరకలేదు
+ko: 오디오 파일 찾을 수 없음
+ms: Fail audio tidak dijumpai
+bo: སྒྲའི་ཡིག་ཆ་རྙེད་མ་སོང་།
+
+$ Audio_Fail_DBT_Location
+en: Failed to get audio download information
+fr: Informations de téléchargement introuvables
+es: Fallo al conseguir información sobre la descarga de audio
+pt: Não consequiu obter informações do download de áudio
+ru: Не удалось найти информацию для загрузки аудио
+uk: Не вдалося отримати інформацію для завантаження аудіо
+tr: Sesli indirme bilgisi alınamadı.
+zh: 未能获得音频下载信息
+id: Tidak bisa memperoleh info tentang audio
+mal: ഓഡിയോ ഡൗൺലോഡ് വിവരം നേടുന്നതിൽ പരാജയപ്പെട്ടു
+vi: Không nhận được thông tin tải tiếng.
+fa: دریافت اطلاعات دانلود صوتی موفق نشد
+de: Fehler beim Abruf der Audio-Download Information
+az: Audio yükləmə məlumatı əldə edilmədi
+ar: عدم العثور على المعلومات المتعلقة بالتحميل
+hi: ऑडियो डाउनलोड जानकारी प्राप्त करने में विफल
+te: ఆడియో డౌన్లోడ్ సమాచారాన్ని పొందడంలో విఫలం
+ko: 오디오 파일 내려받기 정보 습득 실패
+bo: སྒྲ་ཕབ་ལེན་གྱི་གནས་ཚུལ་རྙེད་མ་སོང་།
+
+$ Audio_Looking_For_File
+en: Looking for audio file on your device...
+fr: Recherche du fichier audio sur votre appareil...
+hi: अपने डिवाइस पर ऑडियो फ़ाइल खोज रहा है...
+te: మీ పరికరంలో ఆడియో ఫైల్ కోసం వెతుకుతోంది ..
+de: Audiodatei wird auf ihrem Gerät gesucht...
+fa: جستجوی فایل صوتی در دستگاه خود...
+ko: 기기에서 오디오 파일 찾는 중...
+ms: Mencari fail audio pada peranti anda...
+es: Buscando el archivo de audio en su dispositivo...
+ru: Поиск аудиофайла на вашем устройстве
+bo: ཁྱེད་ཀྱི་མ་ལག་སྒང་ནས་སྒྲའི་ཡིག་ཆ་འཚོལ་བཞིན་ཡོད།
+
+$ Audio_Creating_Audio
+en: Creating audio file...
+fr: Créer fichier audio...
+es: Creando un archivo de audio...
+ru: Создание аудиофайла…
+bo: སྒྲའི་ཡིག་ཆ་བཟོ་བཞིན་ཡོད།
+
+$ Video_Download_Title
+en: Video Download
+fr: Téléchargement vidéo
+hi: वीडियो डाउनलोड करें
+te: వీడియో డౌన్లోడ్
+de: Videodownload
+fa: دانلود ویدیو
+ko: 영상 내려받기
+ms: Muat turun video
+es: Descarga de video
+ru: Загрузка видео
+bo: བརྙན་ཕབ་ལེན།
+
+$ Video_Download_Confirm
+en: Download video file?
+fr: Télécharger fichier vidéo ?
+hi: वीडियो फ़ाइल डाउनलोड करें?
+te: వీడియో ఫైల్ డౌన్లోడ్ చేయాలా?
+de: Videodatei herunterladen?
+fa: آیا تمایل به دانلود ویدئو دارید؟
+ko: 영상을 내려 받으시겠습니까?
+ms: Muat turun fail Video?
+es: ¿Descargar el archivo de vídeo?
+ru: Загрузить видео?
+bo: བརྙན་ཕབ་ལེན་བྱ་རྒྱུ་ཡིན་ནམ།
+
+$ Video_Downloading
+en: Downloading video...
+fr: Téléchargement de la vidéo...
+hi: वीडियो डाउनलोड हो रहा है...
+te: వీడియో డౌవున్ లోడ్ అవుతుంది...
+de: Videodatei wird heruntergeladen...
+fa: در حال دریافت ویدیو
+ko: 영상 내려 받는 중...
+ms: Muat turun video
+es: Descargando el video...
+ru: Видео загружается…
+bo: བརྙན་ཕབ་ལེན་བྱེད་བཞིན་ཡོད།
+
+$ Video_Downloaded
+en: Video downloaded
+fr: Vidéo téléchargée
+hi: वीडियो डाउनलोड किया गया है
+te: వీడియో డౌన్లోడ్ చేయబడింది
+de: Video wurde heruntergeladen.
+fa: ویدئو دانلود شد
+ko: 영상 내려받기 완료
+ms: Video yang dimuat turun
+es: Video descargado
+ru: Видео загружено
+bo: བརྙན་ཕབ་ལེན་བྱས་ཟིན།
+
+$ Video_Looking_For_File
+en: Looking for video file on your device...
+fr: Recherche du fichier vidéo sur votre appareil...
+hi: वीडियो फ़ाइल के लिए अपने डिवाइस को खोज रहा है...
+te: మీ పరికరంలో వీడియో ఫైల్ కోసం వెతుకుతోంది ...
+de: Videodatei wird auf ihrem Gerät gesucht...
+fa: جستجوی فایل تصویری در دستگاه خود...
+ko: 기기에서 영상 파일을 찾는 중...
+ms: Mencari fail video pada peranti anda...
+es: Buscando el archivo de video en su dispositivo...
+ru: Поиск видео на вашем устройстве…
+bo: ཁྱེད་ཀྱི་སྒྲིག་ཆས་སྒང་ནས་བརྙན་གྱི་ཡིག་ཆ་འཚོལ་བཞིན་ཡོད།
+
+$ Video_Creating_Video
+en: Creating video...
+fr: Créer vidéo...
+es: Creando el video...
+ru: Создание видео…
+bo: བརྙན་བཟོ་བཞིན་ཡོད།
+
+$ Selector_Book
+en: BOOK
+fr: LIVRE
+es: LIBRO
+pt: LIVRO
+de: BUCH
+id: KITAB
+az: Kitab
+hi: पुस्तक
+te: పుస్తకం
+fa: کتاب
+ko: 권
+ru: КНИГА
+bo: དཔེ་ཆ།
+
+$ Selector_Chapter
+en: CHAPTER
+fr: CHAPITRE
+es: CAPÍTULO
+tr: BÖLÜM
+id: PASAL
+mal: അധ്യായം
+pt: CAPÍTULO
+zh: 章
+vi: CHƯƠNG
+fa: باب
+ru: ГЛАВА
+de: KAPITEL
+az: Fəsil
+ar: فصل
+hi: अध्याय
+te: అధ్యాయం
+ko: 장
+bo: ལེའུ།
+
+$ Selector_Verse
+en: VERSE
+fr: VERSET
+es: VERSÍCULO
+tr: AYET
+id: AYAT
+mal: വാക്യം
+pt: VERSÍCULO
+zh: 节
+vi: CÂU
+fa: آیه
+ru: СТИХ
+de: VERS
+az: Ayə
+ar: الآية
+hi: वचन
+te: వచనం
+ko: 절
+bo: ཤོ་ལོ་ཀ
+
+$ Share_Apk_File
+en: Share App Installer File
+fr: Partager fichier d'installation de l'appli
+es: Compartir archivo del instalador de la aplicación
+pt: Compartilhar Arquivo de Instalação do Aplicativo
+tr: Uygulama Yükleyici Dosyasını Paylaş
+id: Bagikan file aplikasi (APK)
+mal: ആപ്പ് ഇൻസ്റ്റാളർ ഫയൽ ഷെയര്‍ ചെയ്യുക
+zh: 共享应用程序安装文件
+vi: Chia sẻ file cài đặt App
+fa: اشتراک گذاری فایل نصب برنامه
+ru: Поделиться установочным файлом приложения (.apk)
+de: App-Datei weitergeben
+az: Tətbiq Yükləmə Faylını paylaş
+ar: مشاركة ملف التنصيب
+hi: स्थापनाकर्ता पंक्ति के ऐप को साझा करे
+te: ఆప్ ఇన్స్‌స్టాలర్‌ని షేర్ చేయండి
+ko: 앱 설치 파일 공유하기
+bo: མཉེན་ཆས་འཇུག་སྤྲོད་ཀྱི་ཡིག་ཆ་བརྒྱུད་སྐུར།
+
+$ Share_Apk_File_Via
+en: Share App via
+fr: Partager application par
+tr: Üzerinden uygulama paylaşın
+id: Bagi app ini melalui link
+mal: എ.പി.കെ ഫയൽ ഷെയര്‍ ചെയ്യുക
+es: Compartir a través de
+pt: Compartilhar Aplicativo via
+zh: 共享应用程通过
+vi: Chia sẻ App qua
+fa: اشتراک گذاری از طریق
+ru: Поделиться приложением через
+de: App weitergeben mit
+az: Tətbiq vasitəsilə paylaş
+ar: مشاركة التطبيق عن طريق
+hi: एप्लिकेशन के माध्यम से साझा करें
+te: ఆప్ ద్వారా షేర్ చేయండి
+ko: 앱 공유
+bo: མཉེན་ཆས་བརྒྱུད་སྐུར་གྱི་བརྒྱུད་ལམ།
+
+$ Share_App_Link
+en: Share Link to App on Google Play
+fr: Partager lien à l'appli sur Google Play
+es: Compartir enlace de aplicación en Google Play
+pt: Compartilhar hiperlink ao Aplicativo no Google Play
+tr: Google Play'de Uygulamaya Bağlantı Paylaşın
+id: Membagi link ke app ini di Google Play Store
+mal: ഗൂഗിൾ പ്ലേയിലെ ആപ്പ് ലിങ്ക് ഷെയര്‍ ചെയ്യുക
+vi: Chia sẻ đường dẫn đến App trên Google Play
+fa: به اشتراک گذاری لینک دسترسی به Google Play
+ru: Поделиться ссылкой на приложение в Google Play
+de: Den Link der App zu Google Play weitergeben
+az: Google Play-də tətbiqə keçmək üçün linki paylaş
+ar: مشاركة رابط التطبيق على جوجل بلاي
+hi: गूगल प्ले के ऐप के  लिंक को साझा करें
+te: గూగుల్ ప్లేలో షార్ లింక్ భాగస్వామ్యం
+ko: 구글 플레이에서 앱 링크 공유하기
+bo: མཉེན་ཆས་ཀྱི་དྲ་ཐག་ Google Play སྒང་ལ་བརྒྱུད་སྐུར་བྱ་རྒྱུ་ཡིན་ནམ།
+
+$ Share_App_Link_Recommend
+en: I can recommend this app:
+fr: Je peux recommander cette application :
+tr: Bu uygulamayı tavsiye edebilirim:
+id: Saya merekomendasikan app ini:
+mal: എനിക്ക് ഈ ആപ്പ് ശുപാർശ ചെയ്യാൻ കഴിയും
+es: Puedo recomendar esta aplicación
+pt: Eu posso recomendar este aplicativo:
+zh: 我可以推荐这个应用程序：
+vi: Tôi có thể giới thiệu app:
+fa: من می توانم این برنامه را توصیه کنم:
+ru: Я бы порекомендовал это приложение:
+de: Ich kann diese App empfehlen:
+az: Bu tətbiqi tövsiyə edə bilərəm:
+ar: يمكنني التوصية  بهذا التطبيق
+hi: मै इस ऐप की अनुशंसा करता हूँ
+te: నేను ఈ ఆప్‌ని సిఫార్సు చేయవచ్చ:
+ko: 이 앱을 추천합니다:
+bo: ངས་མཉེན་ཆས་འདི་མཚམས་སྦྱོར་བྱ་ཆོག
+
+$ Share_App_Link_Via
+en: Share Link via
+fr: Partager lien par
+tr: Üzerinden uygulama paylaşın
+id: Membagi link melalui
+mal: ലിങ്ക് ഷെയര്‍ ചെയ്യുക
+es: Compartir enlace a través de
+pt: Compartilhar Hiperlink via
+zh: 共享链路通过：
+vi: Chia sẻ đường dẫn qua
+fa: اشتراک گذاری پیوند از طریق
+ru: Поделиться ссылкой через
+de: Den Link weitergeben mit
+az: Bağlantıyı paylaşın
+ar: مشاركة الرابط من خلال
+hi: लिंक के माध्यम से साझा करें
+te: లింక్ ద్వారా షేర్ చేయండి
+ko: 링크를 통해 공유하기
+bo: དྲ་ཐག་བརྒྱུད་སྐུར་གྱི་བརྒྱུད་ལམ།
+
+$ Share_Via
+en: Share via
+fr: Partager par
+tr: Üzerinden paylaş
+id: Berbagi melalui
+mal: ഷെയര്‍ ചെയ്യുക
+es: Compartir a través de
+pt: Compartilhar via
+zh: 共享通过：
+vi: Chia sẻ qua
+fa: اشتراک گذاری از طریق
+ru: Поделиться через
+de: Weitergeben mit
+az: Paylaşın
+ar: مشاركة عبر
+hi: के माध्यम से बाँटे
+te: దీని ద్వారా షేర్ చేయండి
+ko: 공유
+bo: བརྒྱུད་སྐུར་གྱི་བརྒྱུད་ལམ།
+
+$ Share_Text
+en: Share Text
+fr: Partager texte
+es: Compartir texto
+ru: Поделиться текстом
+bo: ཡིག་ཆ་བརྒྱུད་སྐུར།
+
+$ Share_Audio
+en: Share Audio
+fr: Partager audio
+es: Compartir Audio
+ru: Поделиться аудио
+bo: སྒྲ་བརྒྱུད་སྐུར།
+
+$ Share_Image
+en: Share Image
+fr: Partager image
+es: Compartir imagen
+ru: Поделиться изображением
+bo: འདྲ་པར་བརྒྱུད་སྐུར།
+
+$ Share_Video
+en: Share Video
+fr: Partager vidéo
+es: Compartir Video
+ru: Поделиться видео
+bo: བརྙན་བརྒྱུད་སྐུར།
+
+$ Settings_Title
+en: Settings
+fr: Paramètres
+es: Configuraciones
+pt: Configurações
+tr: Ayarlar
+id: Pengaturan
+mal: ക്രമീകരണങ്ങൾ
+zh: 设置
+vi: Cài đặt
+fa: تنظیمات
+ru: Настройки
+de: Einstellungen
+az: Parametrlər
+ar: إعدادات
+hi: सेटिंग्स
+te: సెట్టింగులు
+ko: 설정
+ms: Tetapan
+bo: སྒྲིག་འགོད།
+
+$ Settings_Category_Text_Display
+en: Text Display
+fr: Affichage du texte
+tr: Metin görüntüleme
+id: Tampilan Teks
+mal: ടെക്സ്റ്റ് ഡിസ്പ്ലേ
+es: Visualizar texto
+pt: Exibição do Texto
+zh: 文本显示
+vi: Hiển thị văn bản
+fa: نمایش متن
+ru: Отображение текста
+de: Textansicht
+az: Mətn Ekranı
+ar: عرض النص
+hi: पाठ का प्रकाशन
+te: వాక్య ప్రదర్శన
+ko: 본문 보기 설정
+ms: Paparan Teks
+bo: ཡིག་རྐྱང་སྟོན།
+
+$ Settings_Category_Navigation
+en: Navigation
+fr: Navigation
+es: Navegación
+tr: Navigasyon
+id: Navigasi
+mal: നാവിഗേഷൻ
+pt: Navegação
+zh: 导航
+vi: Định hướng
+fa: هدایت
+ru: Навигация
+de: Steuerung
+az: Naviqasiya
+ar: تصفح
+hi: पथ प्रदर्शन
+te: చోదనం
+ko: 안내
+ms: Navigasi
+bo: ཐད་འཚོལ།
+
+$ Settings_Category_Notifications
+en: Notifications
+fr: Notifications
+es: Notificaciones
+ms: Pemberitahuan
+ru: Уведомления
+bo: བརྡ་ཁྱབ།
+
+$ Settings_Category_Audio
+en: Audio
+fr: Audio
+fa: صوتی
+ru: Аудио
+es: Audio
+pt: Áudio
+de: Audio
+id: Audio
+az: Audio
+ar: صوتيات
+hi: ऑडियो
+te: ఆడియో
+ko: 오디오
+ms: Audio
+bo: སྒྲ།
+
+$ Settings_Category_Interface
+en: User Interface
+fr: Interface utilisateur
+es: Interfaz del usuario
+tr: Kullanıcı arayüzü
+id: Antarmuka pengguna
+mal: യൂസര്‍ ഇന്റർഫേസ്
+pt: Interface do Usuário
+zh: 用户界面
+vi: Giao diện người dùng
+fa: رابط کاربر
+ru: Интерфейс пользователя
+de: Benutzeroberfläche
+az: stifadəçi interfeysi
+ar: واجهة مستخدم
+hi: उपयोक्ता इंटरफेस
+te: వినియోగదారుని మధ్యవర్తిత్వం
+ko: 사용자 설정
+ms: Antara pengguna
+bo: སྤྱོད་མཁན་གྱི་མདུན་ངོས།
+
+$ Settings_Book_Selection
+en: Book selection
+fr: Sélection de livres
+es: Selección de Libros
+pt: Seleção de Livro
+tr: Kitap Seçimi
+id: Susunan Pemilihan Kitab
+mal: പുസ്തകം തിരഞ്ഞെടുക്കൽ
+zh: 书选择
+vi: Chọn lựa sách
+fa: انتخاب کتاب
+ru: Меню выбора книги
+de: Buchauswahl
+az: Kitab seçimi
+ar: مختارات من الكتب
+hi: पुस्तक का चयन
+te: పుస్తకం ఎంపిక
+ko: 선택
+bo: དེབ་འདེམ་གསེས།
+
+$ Settings_Book_Selection_List
+en: List of book names
+fr: Liste de noms de livres
+es: Lista de nombres de libros
+pt: Lista de Nomes dos Livros
+tr: Kitap isimleri listesi
+id: Daftar nama-nama kitab
+mal: പുസ്തക പേരുകളുടെ ലിസ്റ്റ്
+zh: 书名列表
+vi: Danh sách tên sách
+fa: لیست نام کتاب
+ru: Список названий книг
+de: Liste der Buchnamen
+az: Kitab adlarının siyahısı
+ar: قائمة أسماء الكتب
+hi: पुस्तक नामों की सूची
+te: పుస్తకం పేర్ల జాబితా
+ko: 목록별
+bo: མཚན་བྱང་བསྟར་ཕྲེང་།
+
+$ Settings_Book_Selection_Grid
+en: Grid of book abbreviations
+fr: Grille d'abréviations de livres
+es: Cuadrícula de abreviaturas de libros
+pt: Quadra de abreviaturas de livros
+tr: Kitap kısaltmalarının kılavuzu
+id: Singkatan nama kitab
+mal: പുസ്തകം ചുരുക്കെഴുത്തുകളുടെ ഗ്രിഡ്
+zh: 网格
+vi: Bảng viết tắt tên sách
+fa: جدول اختصارات کتاب
+ru: Сетка с аббревиатурами названий книг
+de: Grafische Buchauswahl
+az: Kitabın kısaltmaları Grid
+ar: شبكة اختصارات الكتب
+hi: पुस्तक संक्षिप्त की सूची
+te: పుస్తక నిర్వచనాలు
+ko: 약자별
+bo: དྲྭ་མིག་ལྟར།
+
+$ Settings_Red_Letters
+en: Red letters
+fr: Paroles de Jésus en rouge
+es: Letras rojas
+pt: Letras Vermelhas
+tr: Kırmızı Harfler
+id: Huruf-huruf Merah
+mal: ചുവന്ന അക്ഷരങ്ങൾ
+vi: Chữ đỏ
+fa: حروف قرمز
+ru: Текст, выделенный красным цветом
+de: Rote Schrift
+az: Qırmızı hərflər
+ar: الأحرف الحمراء
+hi: लाल अक्षर
+te: ఎరుపు అక్షరాలు
+ko: 붉은 글자
+bo: ཡིག་འབྲུ་དམར་པོ།
+
+$ Settings_Red_Letters_Summary
+en: Show the words of Jesus in red
+fr: Afficher les paroles de Jésus en rouge
+es: Mostrar Palabras de Jesús en rojo
+pt: Exibir as palavras de Jesus em vermelho
+tr: İsa'nın sözlerini kırmızıya göster
+id: Tampilkan kata-kata Yesus dengan huruf merah
+mal: യേശുവിന്റെ വാക്കുകള്‍ ചുവന്ന അക്ഷരങ്ങളില്‍ കാണിക്കുക
+vi: Hiển thị lời Chúa Giê-su bằng chữ đỏ
+fa: نشان دادن کلمات عیسی به رنگ قرمز
+ru: Выделять слова Христа красным цветом
+de: Die Worte Jesu in roter Schrift anzeigen
+az: İsa sözlərini qırmızı rəngdə göstərin
+ar: عرض أقوال يسوع باللون الأحمر
+hi: यीशु के शब्दों को लाल रंग में दिखाओ
+te: యేసు పలికిన మాటలు ఎరుపు రంగులో చూపించు
+ko: 예수님의 말씀을 붉은 색으로 표기
+bo: ཡེ་ཤུ་མ་ཤི་ཀའི་མཚན་(Jesus)ཚིག་རྣམས་ཚོན་མདོག་དམར་པོའི་ནང་སྟོན།
+
+$ Settings_Show_Border
+en: Show border
+fr: Bordure autour du texte
+tr: Kenarlığı Göster
+id: Tampilkan perbatasan
+mal: ബോർഡർ കാണിക്കുക
+es: Mostrar borde al texto
+pt: Exibir Bordas
+vi: Hiển thị đường viền
+fa: کادر را نشان بده
+ru: Показывать рамку
+de: Rahmen anzeigen
+az: Haşiyə göstər
+ar: عرض حدود النص
+hi: सीमा दिखाना
+te: పరిమితి చూపించు
+ko: 테두리 표시
+ms: Tunjuk sempadan
+bo: མཐའ་སྒྲོམ་སྟོན།
+
+$ Settings_Show_Border_Summary
+en: Show decorative border around text
+fr: Afficher une bordure decorative autour du texte
+tr: Dekoratif metin kenarlığı göster
+id: Tunjukkan batas dekoratif di sekitar teks
+mal: വാചകത്തിനു ചുറ്റും അലങ്കാര ബോർഡർ കാണിക്കുക
+es: Mostrar un borde decorativo alrededor del texto
+pt: Exibir bordas decorativas ao redor do texto
+vi: Hiển thị đường viền trang trí xung quanh văn bản
+fa: کادر حاشیه اطراف متن را نشان بده
+ru: Показывать декоративную рамку вокруг текста
+de: Einen dekorativen Rahmen um den Text anzeigen
+az: Mətn ətrafında dekorativ haşiyələr göstər
+ar: عرض زينة حول حدود النص
+hi: पाठ के आसपास सजावटी सीमा दिखाएं
+te: వాక్యము చుట్టూ అలంకరణ పరిమితిని చూపించు
+ko: 본문 주위 꾸미는 테두리 표시
+ms: Tunjukkan sempadan hiasan sekitar teks
+bo: ཡི་གེའི་མཐའ་རྒྱན་སྟོན།
+
+$ Settings_Verse_Numbers
+en: Show verse numbers
+fr: Afficher numéros de versets
+es: Mostrar números de versículos
+pt: Exibir Números de Versículo
+tr: Ayet Numaralarını Göster
+id: Tampilkan Nomor Ayat
+mal: വാക്യ നമ്പറുകള്‍ കാണിക്കുക
+zh: 显示经文数字
+vi: Hiển thị số câu
+fa: نشان دادن اعداد آیه
+ru: Показывать номера стихов
+de: Versnummern anzeigen
+az: Ayə nömrələrini göstər
+ar: عرض عدد الآيات
+hi: वचन संख्या दिखाएं
+te: వచనం సంఖ్యలను చూపించు
+ko: 구절 숫자 표기
+bo: ཤོ་ལོ་ཀའི་ཨང་སྟོན།
+
+$ Settings_Verse_Layout
+en: Verse layout
+fr: Mise en page des versets
+es: Distribución de Versículos
+pt: Layout de versículos
+tr: Verse Düzeni
+id: Penataan Ayat
+mal: വാക്യ ലേഔട്ട്
+vi: Trình bày câu
+fa: طرح آیه
+ru: Расположение стихов
+de: Versanordnung
+az: Verse düzeni
+ar: تصميم عرض الآيات
+hi: वचन अभिन्यास (लेओउट)
+te: వచనం విన్యాసం
+ko: 구절 배치
+bo: ཤོ་ལོ་ཀའི་བར་འཇུག
+
+$ Settings_Verse_Layout_Paragraphs
+en: Verses in paragraphs
+fr: Versets en paragraphes
+es: Versículos en párrafos
+pt: Versículos em parágrafos
+tr: Paragrafların içindeki ayetler
+id: Digabung menjadi paragraf
+mal: ഖണ്ഡികകളിൽ വാക്യങ്ങൾ
+vi: Câu trong đoạn văn
+fa: آیات در پاراگراف ها
+ru: Объединить стихи в параграфы
+de: Verse in Absätzen anzeigen
+az: Paraqraflarda ayələr
+ar: الآيات في فقرات
+hi: पैराग्राफ में आयत
+te: వచనాలు ప్యారగ్రాపుల్లో
+ko: 단락별 보기
+bo: ལེའུའི་ནང་གི་ཤོ་ལོ་ཀ
+
+$ Settings_Verse_Layout_One_Per_Line
+en: One verse per line
+fr: Un verset par ligne
+es: Un versículo por línea
+pt: Um versículo por linha
+tr: Hat başına bir ayet
+id: Terpisah
+mal: ഒരു വരിയിൽ ഒരു വാക്യം
+vi: Một câu trên một dòng
+fa: یک آیه در هر خط
+ru: Каждый стих с новой строки
+de: Verse einzeln anzeigen
+az: Hər satırda bir ayə
+ar: اية لكل سطر
+hi: प्रति पंक्ति एक कविता
+te: ఒక వరుసలో ఒక వచనం
+ko: 줄당 한 구절
+bo: ཤོ་ལོ་ཀ་རེར་ཐིག་ཕྲེང་རེ།
+
+$ Settings_Verse_Selection
+en: Show verse selector
+fr: Montrer sélecteur de versets
+tr: Ayet Seçicisini Göster
+id: Tampilkan Pemilih Ayat
+mal: വാക്യ സെലക്ടർ കാണിക്കുക
+es: Mostrar Selector de Versículos
+pt: Exibir Seletor de Versículo
+zh: 显示经文选择器
+vi: Hiển thị Công Cụ Chọn Lựa Câu
+fa: نشان دادن نمایشگر آیه
+ru: Показывать меню выбора стиха
+de: Versauswahl anzeigen
+az: Ayet seçicisini göstər
+ar: عرض منتقي الآيات
+hi: श्वेयर चयनकर्ता दिखाएं
+te: వచనం ఎంపికను చూపించు
+ko: 구절 선택창 표기
+bo: ཤོ་ལོ་ཀའི་འདེམ་རྟགས་སྟོན།
+
+$ Settings_Interface_Language
+en: Language
+fr: Langue
+es: Idioma
+pt: Idioma da Interface
+tr: Arayüz Dili
+id: Bahasa antarmuka
+mal: ഭാഷ
+zh: 语言
+vi: Ngôn ngữ giao diện
+fa: زبان رابط
+ru: Язык
+de: Benutzersprache
+az: Dil
+ar: اللغة
+hi: भाषा
+te: భాష
+ko: 언어
+ms: Bahasa
+bo: སྐད་ཡིག
+
+$ Settings_Layout_Direction
+en: Layout direction
+fr: Direction de mise en page
+tr: Yerleşim yönü
+id: Arah tata letak
+mal: ലേഔട്ട് ദിശ
+es: Dirección de la distribución
+pt: Direção do Layout
+zh: 布局方向
+vi: Hướng trình bày
+fa: مدیریت شیوه نمایش
+ru: Направление текста
+de: Richtung des Layouts
+az: düzümü istiqaməti
+ar: إدارة التصميم
+hi: लेआउट दिशा
+te: విన్యాస నిర్ధేశం
+ko: 배치 방향
+bo: ཀློག་ཕྱོགས།
+
+$ Settings_Layout_Direction_LTR
+en: Left to Right
+fr: De gauche à droite
+es: De izquierda a derecha
+tr: Soldan sağa
+id: Kiri ke kanan
+mal: ഇടത് നിന്ന് വലത്തേക്ക്
+pt: Esquerda para Direita
+zh: 左到右
+vi: Từ trái qua phải
+fa: چپ به راست
+ru: Слева направо
+de: von links nach rechts
+az: Soldan sağa
+ar: من اليمين إلى اليسار
+hi: बाएं से दाएं
+te: ఎడమ నుండి కుడికి
+ko: 좌에서 우로
+ms: Kiri ke Kanan
+bo: གཡོན་ནས་གཡས།
+
+$ Settings_Layout_Direction_RTL
+en: Right to Left
+fr: De droite à gauche
+es: De derecha a izquierda
+tr: Sağdan sola
+id: Kanan ke kiri
+mal: വലത് നിന്ന് ഇടത്തേക്ക്
+pt: Direita para Esquerda
+zh: 右到左
+vi: Từ phải qua trái
+fa: راست به چپ
+ru: Справа налево
+de: von rechts nach links
+az: Sağdan sola
+ar: من اليسار إلى اليمين
+hi: दाएं से बाएं
+te: కుడి నుండి ఎడమకు
+ko: 우에서 좌로
+ms: Kanan ke Kiri
+bo: གཡས་ནས་གཡོན།
+
+$ Settings_Layout_Direction_Interface_Language
+en: Direction of interface language
+fr: Direction de la langue de l'interface
+tr: Arayüz dilinin yönü
+id: Arah bahasa antarmuka
+mal: ഇന്റർഫേസ് ഭാഷയുടെ ദിശ
+es: Dirección del idioma de interfaz
+pt: Direção do idioma da interfaze
+vi: Hướng ngôn ngữ giao diện
+fa: مدیریت زبان رابط
+ru: Направление языка интерфейса
+de: Schreibrichtung der Benutzersprache
+az: İnterfeys dilinin istiqaməti
+ar: إتجاه واجهة اللغات
+hi: अंतराफलक भाषा की दिशा
+te: మధ్యవర్తి భాష యొక్క నిర్ధేశం
+ko: 설정 언어대로
+ms: Hala tuju antara muka Bahasa
+bo: སྐད་ཡིག་གི་ཀློག་ཕྱོགས།
+
+$ Settings_Layout_Direction_Text
+en: Direction of current text
+fr: Direction du texte actuel
+tr: Mevcut metnin yönü
+id: Arah teks saat ini
+mal: നിലവിലുള്ള ടെക്സ്റ്റിന്റെ ദിശ
+es: Dirección del texto actual
+pt: Direção do texto atual
+vi: Hướng văn bản hiện hành
+fa: مدیریت متن فعلی
+ru: Направление текущего текста
+de: Schreibrichtung des aktuellen Textes
+az: Cari mətnin istiqaməti
+ar: إتجاه النص الحالي
+hi: वर्तमान पाठ की दिशा
+te: ప్రస్తుత వాక్యభాగం యొక్క నిర్ధేశం
+ko: 현재 본문대로
+ms: Arahan teks semasa
+bo: ཡིག་ཆ་འདིའི་ཀློག་ཕྱོགས།
+
+$ Settings_Audio_Highlight_Phrase
+en: Highlight synchronized phrases
+es: Resaltar las frases sincronizadas
+fr: Phrases synchronisées en jaune
+pt: Destacar frases sincronizadas
+zh: 突出显示同步短语
+vi: Làm nổi bật các cụm từ đồng bộ
+fa: برجسته کردن عبارات هم گام
+ru: Выделять читаемые фразы
+de: Synchronisierte Wortgruppen farblich markieren
+id: Menyoroti frasa yang disinkronkan
+az: Sinxronlaşdırılmış ifadələri vurğula
+ar: عرض الجمل المتطباقة بالأصفر
+hi: वाक्यांशों को हाइलाइट करें
+te: సమకాలీకరించబడిన పదబంధాలను హైలైట్ చేయండి
+ko: 음성 구절 하이라이트
+ms: Serlahkan frasa disegerakkan
+bo: ཚིག་དུམ་ལ་འདེམ་རྟགས་བཀོད་པ།
+
+$ Settings_Audio_Highlight_Phrase_Summary
+en: Show current phrase in yellow when playing audio
+es: Mostrar la frase actual en amarillo al reproducir el audio
+fr: Afficher la phrase en cours en jaune lors de la lecture audio
+pt: Exibir frase atual em amarelo enquanto tocando áudio
+vi: Hiển thị cụm từ hiện hành bằng màu vàng khi chạy âm thanh
+fa: هنگام پخش صوتی٬ عبارات فعلی زردرنگ نشان داده شود
+ru: Выделять читаемую фразу желтым цветом
+de: Beim Abspielen des Tons die entsprechende Wortgruppe gelb markieren
+id: Menyoroti frasa dengan warna kuning ketika putar audio.
+az: Səs oynarkən cari sözləri sarı rəngdə göstərin
+ar: عرض الجملة الجارية حالياً باللون الأصفر
+hi: ऑडियो खेलते समय पीले रंग में हाइलाइट करें
+te: ఆడియోను ప్లే చేస్తున్నప్పుడు పసుపు రంగులో ప్రస్తుత పదబంధాన్ని చూపించు
+ko: 오디오 재생시 해당 구절들 노란색으로 표시하기
+ms: Tunjukkan frasa semasa dengan warna kuning apabila memainkan audio
+bo: སྒྲ་བཏང་བ་དང་ལྷན་ད་ལྟའི་ཚིག་དུམ་དེ་ཚོན་མདོག་སེར་པོའི་ནང་སྟོན།
+
+$ Settings_Audio_Speed
+en: Playback speed
+fr: Vitesse de lecture
+fa: سرعت پخش
+ru: Скорость воспроизведения
+es: Velocidad de reproducción
+pt: Velocidade de reprodução
+de: Abspielgeschwindigkeit
+id: Pengaturan kecepatan audio
+az: Oynatma sürəti
+ar: سرعة القرائة
+hi: ऑडियो की गति
+te: ప్లేబ్యాక్ వేగం
+ko: 재생 속도
+ms: Kelajuan main semula
+bo: སྒྲའི་མགྱོགས་ཚད།
+
+$ Settings_Audio_Speed_Normal
+en: Normal
+fr: Normale
+es: Normal
+fa: معمولی
+ru: Нормальная
+pt: Normal
+de: Normal
+id: Normal
+az: Normal
+ar: متوسط
+hi: साधारण
+te: సాధారణ
+ko: 보통
+ms: Normal
+bo: རྒྱུན་ལྡན།
+
+$ Settings_Audio_Download_Mode
+en: Audio file download
+fr: Téléchargement de fichiers audio
+fa: دانلود فایل صوتی
+ru: Скачивание аудиофайла
+es: Descargar archivos de audio
+pt: Baixar arquivo de áudio
+de: Herunterladen der Audiodatei
+id: Unduhan file audio
+az: Audio faylını yükləyin
+ar: تحميل الملف الصوتي
+hi: ऑडियो फ़ाइल डाउनलोड
+te: ఆడియో ఫైల్ డౌన్లోడ్
+ko: 오디오 파일 내려받기
+ms: Serlahkan frasa disegerakkan
+bo: སྒྲའི་ཡིག་ཆ་ཕབ་ལེན།
+
+$ Settings_Audio_Download_Prompt
+en: Always ask before downloading
+fr: Demander avant de télécharger
+fa: همیشه قبل از دانلود اجازه گرفته شود
+ru: Всегда спрашивать перед скачиванием
+es: Siempre preguntar antes de descargar
+pt: Sempre perguntar antes de baixar
+de: Vor dem Herunterladen immer fragen
+id: Selalu bertanya sebelum mengunduh
+az: Yükləməzdən əvvəl həmişə soruş
+ar: الإستئذان قبل التحميل
+hi: डाउनलोड करने से पहले हमेशा पूछें
+te: డౌన్లోడ్ చేయడానికి ముందు అడుగుము
+ko: 내려받기 전 항상 묻기
+ms: Sentiasa tanya sebelum memuat turun
+bo: ཕབ་ལེན་མ་བྱས་སྔོན་རྒྱུན་དུ་དྲི་བ་ཕྲིས།
+
+$ Settings_Audio_Download_Automatic
+en: Download automatically
+fr: Télécharger automatiquement
+fa: دانلود به صورت اتوماتیک
+ru: Скачивать автоматически
+es: Descargar automáticamente
+pt: Baixar automaticamente
+de: Automatisch herunterladen
+id: Mengunduh secara otomatis
+az: Avtomatik yüklə
+ar: التحميل بصورة الية
+hi: अपने आप से डाउनलोड करें
+te: ఆటోమేటిక్ డౌన్లోడ్ చేయండి
+ko: 자동 내려받기
+ms: Muat turun secara automatik
+bo: རང་འགུལ་གྱིས་ཕབ་ལེན།
+
+$ Settings_Audio_Download_Automatic_Wifi
+en: Download automatically if using WiFi
+fr: Télécharger automatiquement si vous êtes sur WiFi
+fa: دانلود به صورت اتوماتیک هنگام استفاده از WiFi
+ru: Скачивать автоматически при подключении по WiFi
+es: Descargar automáticamente si usa WiFi
+pt: Baixar automaticamente usando a rede sem fio
+de: Automatisch herunterladen wenn WLAN genutzt wird
+id: Mengunduh secara otomatis kalau ada WiFi
+az: WiFi istifadə edərkən avtomatik olaraq yüklə
+ar: التحميل بصورة الية فحلت إستعمال وفي
+hi: सिर्फ वाई-फाई  (Wi-Fi)से डाउनलोड करें
+te: వైఫైని (Wi-Fi) ఉపయోగించి డౌన్లోడ్ చేయండి
+ko: 와이파이(WiFi) 사용시 자동으로 내려받기
+ms: Muat turun secara automatik jika menggunakan WiFi
+bo: སྐུད་མེད་དྲ་ལ་མཐུད་དུས་རང་འགུལ་གྱིས་ཕབ་ལེན་བྱེད།
+
+$ Settings_Keep_Screen_On
+en: Keep screen on
+fr: Garder l'écran allumé
+fa: روشن نگه داشتن صفحه نمایش
+ru: Не выключать экран
+es: Mantener la pantalla encendida
+pt: Manter a tela ligada
+de: Display eingeschaltet lassen
+id: Layar terus menyala
+az: Ekranı açıq saxla
+ar: ترك الشاشة تعمل
+hi: हमेशा स्क्रीन चालु रहें
+te: స్క్రీన్‌ని వినియోగంలో ఉంచండి
+ko: 화면 자동 꺼짐 해제
+ms: Teruskan skrin
+bo: འཆར་ངོས་མུ་མཐུད་ནས་སྟོན།
+
+$ Settings_Share_Usage_Data
+en: Share usage data
+fr: Partager des données d'utilisation
+pt: Compartilhar dados utilizados
+es: Compartir datos de uso
+de: Nutzerdaten weitergeben
+id: Membagi data penggunaan
+az: İstifadə məlumatlarını paylaş
+ar: مشاركة البيانات المتعلقة بالإستخدام
+hi: ऐप को बेहतर बनाने के लिए फिडबैक डेटा दें
+te: వినియోగ డేటాను షేర్ చేయండి
+fa: به اشتراک گذاشتن فایل های استفاده شده با طراحان برنامه
+ko: 데이터 사용량 공유하기
+ms: Kongsi data penggunaan
+ru: Поделиться данными об использовании
+bo: བཀོལ་བྱའི་ཡིག་ཆ་བརྒྱུད་སྐུར།
+
+$ Settings_Verse_Of_The_Day
+en: Verse of the day
+fr: Verset du jour
+es: Versículo del día
+ru: Цитата дня
+bo: ཉིན་དེའི་ཤོ་ལོ་ཀ
+
+$ Settings_Verse_Of_The_Day_Time
+en: Time for verse of the day
+fr: L'heure du verset du jour
+es: Tiempo para el versículo del día
+ru: Время цитаты дня
+bo: ཉིན་རེའི་ཤོ་ལོ་ཀའི་དུས་ཚོད།
+
+$ Settings_Verse_Of_The_Day_Book_Collection
+en: Translation for verse of the day
+fr: Traduction pour le verset du jour
+es: Traducción para el versículo del día
+ru: Выбор языка для цитаты дня
+bo: ཉིན་རེའི་ཤོ་ལོ་ཀའི་འགྱུར།
+
+$ Settings_Daily_Reminder
+en: Daily reminder
+fr: Rappel quotidien
+es: Recordatorio diario
+ru: Ежедневное напоминание
+bo: ཉིན་རེའི་དྲན་གསོ།
+
+$ Settings_Daily_Reminder_Time
+en: Time for daily reminder
+fr: L'heure du rappel quotidien
+es: Tiempo para el recordatorio diario
+ru: Время ежедневного напоминания
+bo: ཉིན་རེའི་དྲན་གསོའི་དུས་ཚོད།
+
+$ Notification_Verse_Of_The_Day_Title
+en: Verse of the Day
+fr: Verset du jour
+es: Versículo del día
+ru: Цитата дня
+bo: ཉིན་དེའི་ཤོ་ལོ་ཀ
+
+$ Notification_Daily_Reminder_Title
+en: Daily Reminder
+fr: Rappel quotidien
+es: Recordatorio diario
+ru: Ежедневное напоминание
+bo: ཉིན་རེའི་དྲན་གསོ།
+
+$ Notification_Daily_Reminder_Message
+en: Time to read or listen to God's Word
+fr: C'est le moment de lire ou d'écouter la Parole de Dieu
+es: Tiempo para leer o escuchar la Palabra de Dios
+ru: Время читать или слушать Писание
+bo: དཀོན་མཆོག་གི་བཀའ་ཉན་ཀློག་གི་དུས་ཚོད།
+
+$ Notification_Channel_Name_Messages
+en: Messages
+bo: འཕྲིན་ཐུང་།
+
+$ Notification_Channel_Name_Verse_Of_The_Day
+en: Verse of the Day
+bo: ཉིན་དེའི་ཤོ་ལོ་ཀ
+
+$ Notification_Channel_Name_Daily_Reminder
+en: Daily Reminder
+bo: ཉིན་རེའི་དྲན་གསོ།
+
+$ Notification_Channel_Name_Images
+en: Images
+bo: འདྲ་པར་ཁག
+
+$ Notification_Please_Allow
+en: Please allow this app to send you notifications.
+fr: Veuillez autoriser cette application à vous envoyer des notifications.
+ru: Разрешить этому приложению посылать уведомления
+bo: ཁྱེད་ལ་མཉེན་ཆས་འདིའི་གསལ་བརྡ་གཏོང་འཇུག་རོགས།
+
+$ Notification_Please_Allow_Info
+en: You can get a verse of the day and daily reminders.
+fr: Vous pouvez recevoir un verset du jour et des rappels quotidiens.
+ru: Вы можете получать цитату дня и ежедневные оповещения
+bo: ཁྱེད་ལ་ཉིན་རེའི་ཤོ་ལོ་ཀ་དང་ཉིན་རེའི་དྲན་གསོ་འབྱོར་ཡོང་།
+
+$ Song_List_By_Number
+en: BY NUMBER
+fr: PAR NUMÉRO
+tr: NUMARA GÖRE
+id: Urutan Nomor
+mal: സംഖ്യ പ്രകാരം
+es: POR NÚMERO
+pt: POR NÚMERO
+vi: BẰNG SỐ
+fa: براساس اعداد
+ru: ПО НОМЕРУ
+de: Nach Liednummer
+az: sayı ilə
+ar: بالأرقام
+hi: संख्या से
+te: సంఖ్యను బట్టి
+ko: 숫자별
+ms: IKUT NOMBOR
+bo: ཨང་གྲངས་ལྟར།
+
+$ Song_List_By_Title
+en: BY TITLE
+fr: PAR TITRE
+tr: BAŞLIKLA GÖRE
+id: Urutan Judul
+mal: ടൈറ്റിൽ പ്രകാരം
+es: POR TÍTULO
+pt: POR TÍTULO
+ES: POR TÍTULO
+vi: BẰNG TỰA ĐỀ
+fa: براساس عنوان
+ru: ПО НАЗВАНИЮ
+de: Nach Titel
+az: Adı ilə
+ar: حسب العنوان
+hi: शीर्षक से
+te: శీర్షికను బట్టి
+ko: 제목별
+ms: IKUT TAJUK
+bo: མཚན་བྱང་ལྟར།
+
+$ Text_On_Image_Title
+en: Image
+fr: Image
+es: Imagen
+ru: Изображение
+bo: འདྲ་པར།
+
+$ Text_On_Image_Saved
+en: Image saved
+fr: Image enregistrée
+es: Imagen grabada
+ru: Изображение сохранено
+bo: འདྲ་པར་ཉར་ཡོད།
+
+$ Text_On_Image_Video_Saved
+en: Video saved
+fr: Vidéo enregistrée
+bo: བརྙན་ཉར་ཡོད།
+
+$ Text_On_Image_Save_Image
+en: Save Image
+fr: Enregistrer image
+bo: འདྲ་པར་ཉོར།
+
+$ Text_On_Image_Save_Video
+en: Save Video
+fr: Enregistrer vidéo
+bo: བརྙན་ཉོར།
+
+$ Crop_Image_Title
+en: Crop Image
+bo: འདྲ་པར་གཏུབ།
+
+$ Edit_Text_On_Image_Title
+en: Edit Text
+bo: ཡིག་ཆ་སྒྲིག
+
+$ Book_Group_OT
+en: Old Testament
+fr: Ancien Testament
+es: Antiguo Testamento
+pt: Antigo Testamento
+ru: Ветхий Завет
+uk: Старий Заповіт
+tr: Eski Ahit
+id: Perjanjian Lama
+zh: 旧约
+mal: പഴയ നിയമം
+vi: Cựu Ước
+fa: عهد عتیق
+de: Altes Testament
+az: Əhdi Ətiq
+ar: العهد القديم
+hi: पुराना नियम
+te: పాత నిబంధన
+ko: 구약
+bo: དམ་པའི་གསུང་རབ་རྙིང་མ།
+
+$ Book_Group_NT
+en: New Testament
+fr: Nouveau Testament
+es: Nuevo Testamento
+pt: Novo Testamento
+ru: Новый Завет
+uk: Новий Заповіт
+tr: Yeni Ahit
+id: Perjanjian Baru
+zh: 新约
+mal: പുതിയ നിയമം
+vi: Tân Ước
+fa: عهد جدید
+de: Neues Testament
+az: Əhdi Cədid
+ar: العهد الجديد
+hi: नया नियम
+te: క్రొత్త నిబంధన
+ko: 신약
+bo: དམ་པའི་གསུང་རབ་གསར་མ།
+
+$ Book_Group_DC
+en: Deuterocanonical
+fr: Deutérocanonique
+es: Deuterocanónico
+pt: Deuterocanônico
+ru: Неканонические книги
+uk: Второканонічні книги
+tr: Deuterocanonical
+id: Ulangan
+zh: 次经
+mal: ഇതര കാനോനിക ഗ്രന്ഥങ്ങള്‍
+vi: Kinh Thánh Thứ Yếu
+de: Apokryphen
+az: Deuterocanonical
+ar: الأسفار القانونية الثانية
+hi: अपोक्रिफा
+te: డ్యూటెరోకేనానికల్
+fa: اضافه شده
+bo: ཟུང་ལྡན།
+
+$ Layout_Single_Pane
+en: Single Pane
+fr: Volet unique
+es: Un solo panel
+pt: Painel Único
+tr: Tek Bölme
+mal: ഒരു പാളി
+ru: Один экран
+id: 1 panel
+ar: عنصر وحيد
+hi: एक पैनल
+te: ఒక ప్యానెల్
+ko: 하나의 단
+bo: གཅིག་ཤར།
+
+$ Layout_Two_Pane
+en: Two Pane
+fr: Deux volets
+es: Dos paneles
+pt: Painel Duplo
+tr: İki Bölme
+mal: രണ്ട് പാളി
+ru: Два экрана
+id: 2 panel
+ar: عنصرين
+hi: दो पैनल
+te: రెండు ప్యానెల్స్
+ko: 두개의 단
+bo: གཉིས་ཤར།
+
+$ Layout_Interlinear
+en: Verse by Verse
+fr: Verset par verset
+es: Versículo por versículo
+pt: Versículo por versículo
+tr: Ayet ayet
+mal: വാക്യം പ്രതി വാക്യം
+ru: Стих за стихом
+id: Ayat demi Ayat
+ar: آية تلو آية
+hi: आयत बय आयत
+te: వచనం తరవాత వచనం
+ko: 절별
+bo: ཤོ་ལོ་ཀ་གཅིག་ནས་གཅིག་བརྒྱུད།
+
+$ Editor_Insert
+en: Insert Marker
+fr: Insérer Marqueur
+es: Insertar Marcador
+pt: Inserir Marcador
+ru: Вставить маркер
+uk: Вставити мітку
+id: Masukkan penanda
+zh: 插入标记
+mal: മാർക്കർ ചേർക്കുക
+ar: إدراج علامة
+hi: निशान डालें
+te: గురుతు పెట్టండి
+ko: 마커 삽입
+bo: མཚམས་རྟགས་ཞོག
+
+$ Editor_Insert_Paragraph
+en: Paragraph (\\p)
+fr: Paragraphe (\\p)
+es: Párrafo (\p)
+pt: Parágrafo (\p)
+ru: Абзац (\p)
+uk: Абзац (\p)
+id: Paragraf (\p)
+zh: 段落(\p)
+mal: ഖണ്ഡിക (\p)
+ar: فقرة (\\p)
+hi: अनुच्छेद (\p)
+te: పేరా (\\ p)
+ko: 단락 (\\p)
+bo: དུམ་ཚན། (\\p)
+
+$ Editor_Insert_Poetry
+en: Poetry (\\q1)
+fr: Poesie (\\q1)
+es: Poesía (\q1)
+pt: Poesia (\q1)
+ru: Поэзия (\q1)
+uk: Поезія (\q1)
+id: Puisi (\q1)
+zh: 诗　(\q1)
+mal: കവിത (\q1)
+ar: الشعر (\\q1)
+hi: कविता  (\q1)
+te: కవిత్వం (\q1)
+bo: སྙན་ངག (\\q1)
+
+$ Editor_Insert_SubHeading
+en: Sub Heading (\\s)
+fr: Sous-titre (\\s)
+es: Subtítulo (\s)
+pt: Subtítulo (\s)
+ru: Подзаголовок (\s)
+uk: Підзаголовок (\s)
+id: Sub-Judul (\s)
+zh: 副标题(\s)
+mal: ഉപ തലക്കെട്ട് (\s)
+ar: ترجمة (\\s)
+hi: उप शीर्षक (\s)
+te: ఉపశీర్షిక (\s)
+ko: 부제 (\\s)
+bo: ནང་གསེས་འགོ་འདྲེན། (\\s)
+
+$ Editor_Insert_Footnote
+en: Footnote (\\f ...\\f*)
+fr: Note (\\f ...\\f*)
+es: Nota de pie de página (\f ...\f*)
+pt: Nota de rodapé (\f ...\f*)
+ru: Сноска (\f... \f*)
+uk: Виноска (\f... \f*)
+id: catatan kaki (\f... \f*)
+zh: 脚注(\f... \f*)
+mal: അടിക്കുറിപ്പ്  (\f... \f*)
+ar: ملاحظة (\\f ...\\f*)
+hi: पाद लेख (\f... \f*)
+te: ఫుట్‌నోట్ (\f... \f*)
+ko: 각주 (\\f ...\\f*)
+bo: ཞབས་མཆན། (\\f ...\\f*)
+
+$ Editor_Insert_Other
+en: Other (\\)
+fr: Autre (\\)
+es: Otro (\\)
+pt: Outro (\\)
+id: lain-lain (\\)
+ru: Прочее (\\)
+uk: Решта (\\)
+zh: 其他的(\\)
+ml‍: മറ്റുള്ളവ (\\)
+ar: آخر  (\\)
+ml: മറ്റുള്ളവ (\\)
+hi: अन्य  (\\)
+te: ఇతర (\\)
+ko: 추가 (\\)
+bo: གཞན། (\\)
+
+$ Text_Copied
+en: Text copied
+fr: Texte copié
+tr: Metin kopyalandı
+id: Teks disalin
+mal: ടെക്സ്റ്റ് പകർത്തി
+es: Texto copiado
+pt: Texto copiado
+zh: 文本复制
+vi: Văn bản đã được chép
+fa: متن کپی شد
+ru: Текст скопирован
+de: Text kopiert
+az: Mətn Köçürülüb
+ar: نص منسوخ
+hi: टेक्स्ट की प्रतिलिपि बनाई गई
+te: వాక్యం కాపీ చేయబడింది
+ko: 본문 복사됨
+ms: Teks yang disalin
+bo: ཡིག་ཆ་ངོ་བཤུ་བྱས་ཡོད།
+
+$ Version_Number
+en: Version %s
+fr: Version %s
+tr: Sürüm %s
+es: Versión %s
+pt: Versão%s
+zh: 版本号
+vi: Phiên bản %s
+fa: نسخه ٪s
+ru: Версия %s
+de: Version %s
+id: Versi %s
+az: Versiya(lar) %s
+ar: النسخة %s
+hi: संस्करण %s
+te: పాఠాంతరం % s
+ko: 버전 %s
+ms: Versi %s
+bo: ཐོན་རིམ་གྱི་བརྒྱ་ཆ་%
+
+$ Security_Calculator
+en: Calculator
+fr: Calculatrice
+es: Calculadora
+ru: Калькулятор
+pt: Calculadora
+hi: कैलकुलेटर
+te: క్యాలిక్యులేటర్
+bo: རྩིས་ཆས།
+
+$ Security_Device_Id
+en: Device ID
+fr: ID de l'appareil
+es: ID del aparato
+ru: ID устройства
+pt: ID do dispositivo
+id: ID alat
+ar: هوية الجهاز
+hi: डिवाइस पहचान (आईडी ID)
+te: పరికరం ID
+ms: ID peranti
+bo: སྒྲིག་ཆས་དེའི་ID
+
+$ Security_Enter_PIN
+en: Please enter your PIN
+fr: Veuillez saisir votre code
+ru: Введите ваш PIN
+es: Por favor ingrese su PIN
+pt: Favor digite seu PIN
+id: Masukkan PIN
+ar: رجاءاً أدخل كلمة التثبيت
+hi: कृपया अपना पिन कोड दर्ज करें
+te: దయచేసి మీ PINని నమోదు చేయండి
+bo: PIN གསང་ཨང་འཇུག་རོགས།
+
+$ Security_Incorrect_PIN
+en: Incorrect PIN
+fr: Code incorrect
+ru: Неверный PIN
+es: PIN Incorrecto
+pt: PIN incorreto
+id: PIN salah
+ar: التثبيت غير صحيح
+hi: गलत पिन कोड
+te: PINలో తప్పు ఉంది
+ko: 정확하지 않은 PIN 번호 입니다
+bo: PIN གསང་ཨང་ནོར་འདུག
+
+$ Language_en
+en: English
+fr: Anglais
+es: Inglés
+tr: İngilizce
+id: Inggris
+mal: ഇംഗ്ലീഷ്
+pt: Inglês
+zh: 英文
+vi: Tiếng Anh
+fa: انگلیسی
+ru: Английский
+de: Englisch
+az: İngilis dili
+ar: الأنجليزية
+hi: अंग्रेजी
+te: ఆంగ్లము
+ko: 영어
+bo: ཨིན་ཇིའི་སྐད་ཡིག
+
+$ Language_fr
+en: French
+fr: Français
+es: Francés
+tr: Fransızca
+id: Perancis
+mal: ഫ്രഞ്ച്
+pt: Francês
+fa: فرانسوی
+ru: Французский
+de: Französisch
+az: Fransız dili
+ar: الفرنسية
+hi: फ्रांसीसी
+te: ఫ్రెంచ్
+ko: 프랑스어
+bo: ཧྥ་རན་སིའི་སྐད་ཡིག
+
+$ Language_ar
+en: Arabic
+fr: Arabe
+ar: العربية
+hi: अरबी
+te: అరబిక్
+de: Arabisch
+fa: عربی
+ko: 아랍어
+es: Árabe
+ru: Арабский
+bo: ཨ་རབ་སྐད་ཡིག
+
+$ Language_de
+en: German
+fr: Allemand
+de: Deutsch
+es: Alemán
+id: Jerman
+az: Alman dili
+hi: जर्मन
+te: జర్మన్
+fa: آلمانی
+ko: 독일어
+ru: Немецкий
+bo: འཇར་མན་སྐད་ཡིག
+
+$ Language_id
+en: Indonesian
+fr: Indonesien
+es: Indonesio
+tr: Endonezyaca
+id: Bahasa Indonesia
+mal: ഇന്തോനേഷ്യന്‍
+pt: Indonésio
+fa: اندونزی
+ru: Индонезийский
+de: Indonesisch
+az: İndoneziya dili
+ar: اندونيسية
+hi: इन्डोनेशियाई
+te: ఇండోనేషియన్
+ko: 인도네시아어
+bo: ཧིན་དྷི་ནི་ཞི་ཡའི་སྐད་ཡིག
+
+$ Language_ko
+en: Korean
+fr: Coréen
+es: Coreano
+ru: Корейский
+bo: ཀོ་རི་ཡའི་སྐད་ཡིག
+
+$ Language_ms
+en: Bahasa Melayu
+ru: Малайский
+bo: བྷ་ཧ་ས་མེས་ལ་ཡིའི་སྐད་ཡིག
+
+$ Language_pt
+en: Portuguese
+fr: Portugais
+es: Portugués
+tr: Portekizce
+id: Portugis
+mal: പോര്‍ച്ചുഗീസ്
+pt: Português
+fa: پرتقالی
+ru: Португальский
+de: Portugiesisch
+az: Portuqaliya dili
+ar: برتغالية
+hi: पुर्तगाली
+te: పోర్చుగీస్
+ko: 푸르투갈어
+bo: ཕོར་ཆུ་གྷའི་སྐད་ཡིག
+
+$ Language_ru
+en: Russian
+fr: Russe
+es: Ruso
+tr: Rusça
+id: Rusia
+mal: റഷ്യന്‍
+pt: Russo
+fa: روسی
+ru: Русский
+de: Russisch
+az: Rus dili
+ar: روسية
+hi: रूसी
+te: రష్యన్
+ko: 러시아어
+bo: ཨུ་རུ་སིའི་སྐད་ཡིག
+
+$ Language_es
+en: Spanish
+fr: Espagnol
+es: Español
+tr: İspanyolca
+id: Spanyol
+mal: സ്പാനിഷ്‌
+pt: Espanhol
+fa: اسپانیایی
+ru: Испанский
+de: Spanisch
+az: İspan dili
+ar: إسبانية
+hi: स्पेनिश
+te: స్పానిష్
+ko: 스페인어
+bo: སི་པན་གྱི་སྐད་ཡིག
+
+$ Language_tr
+en: Turkish
+es: Turco
+fr: Turc
+tr: Türkçe
+pt: Turco
+fa: ترکی
+ru: Турецкий
+de: Türkisch
+id: Turki
+az: Türk dili
+ar: تركية
+hi: तुर्की
+te: టర్కిష్
+ko: 터키어
+bo: ཏིར་ཀིའི་སྐད་ཡིག
+
+$ Language_fa
+en: Farsi
+fr: Farsi
+es: Farsi
+pt: Farsi
+de: Farsi
+id: Farsi
+az: Fars dili
+ar: فارسية
+hi: फ़ारसी
+te: ఫార్సీ
+fa: فارسی
+ko: 페르시아어
+ru: Фарси
+bo: ཧྥར་སིའི་སྐད་ཡིག
+
+$ Language_uk
+en: Ukrainian
+fr: Ukrainien
+tr: Ukraynaca
+id: Ukraina
+mal: ഉക്രേനിയന്‍
+es: Ucraniano
+pt: Ucraniano
+fa: اوکرانی
+ru: Украинский
+de: Ukrainisch
+az: Ukrayna dili
+ar: أكرانية
+hi: यूक्रेनी
+te: ఉక్రేని
+ko: 우크라이너어
+bo: ཡུས་ཁི་རན་གྱི་སྐད་ཡིག
+
+$ Language_zh
+en: Chinese (Simplified)
+fr: Chinois (simplifié)
+tr: Çince (Basitleştirilmiş)
+id: Cina
+mal: ചൈനീസ്
+es: Chino (Simplificado)
+pt: Chinês (Simplificado)
+zh: 中文（简体)
+fa: چینی( ساده شده )
+ru: Китайский
+de: Chinesisch (Kurzzeichen)
+az: Çin (Sadələşdirilmiş) dili
+ar: صينية مبسطة
+hi: चीनी
+te: చైనీస్
+ko: 중국어
+bo: རྒྱ་ནག་གི་སྐད་ཡིག (གསར་མ།)
+
+$ Language_hi
+en: Hindi
+fr: Hindi
+fa: هندی
+ru: Хинди
+es: Hindi
+pt: Hindi
+de: Hindi
+id: Hindi
+az: Hind dili
+ar: هندية
+hi: हिंदी
+te: హిందీ
+bo: ཧིན་དྷིའི་སྐད་ཡིག
+
+$ Language_mal
+en: Malayalam
+fr: Malayalam
+fa: مالایالام
+ru: Малаялам
+es: Malabar
+pt: Malaio
+de: Malayalam
+id: Melayu
+az: Malayalam dili
+ar: ملايالم
+hi: मलयालम
+te: మలయాళం
+bo: མ་ལ་ཡ་ལམ་གྱི་སྐད་ཡིག
+
+$ Language_te
+en: Telugu
+fr: Télougou
+es: Telugu
+ru: Телугу
+bo: ཏེ་ལུ་གུའི་སྐད་ཡིག
+
+$ Language_vi
+en: Vietnamese
+fr: Vietnamien
+es: Vietnamita
+pt: Vietnamita
+de: Vietnamesisch
+id: Vietnam
+az: Vyetnam dili
+ar: فيتنامية
+hi: वियतनामी
+te: వియత్నామీస్
+fa: ویتنامی
+ru: Вьетнамский
+bo: ཝེ་ཐི་ནམ་གྱི་སྐད་ཡིག
+
+$ Language_az
+en: Azerbaijani
+hi: आज़रबाइजानी
+te: అజర్బైజాని
+de: Aserbaidschanisch
+fa: آذری
+ko: 아제르바이잔어
+es: Azerbaiyán
+ru: Азербайджанский
+bo: ཨ་ཟར་བྷ་ཇ་ནའི་སྐད་ཡིག
+
+$ Chapter_Introduction_Title
+en: Introduction
+fr: Introduction
+es: Introducción
+pt: Introdução
+ru: Предисловие
+uk: Передмова
+tr: Giriş
+id: Pengantar
+zh: 引言
+mal: ആമുഖം
+vi: Giới thiệu
+fa: پیشگفتار
+de: Einführung
+az: Giriş
+ar: مقدمة
+hi: परिचय
+te: పరిచయం
+ms: Pengenalan
+bo: ངོ་སྤྲོད།
+
+$ Chapter_Introduction_Symbol
+en: i
+fr: i
+es: i
+pt: i
+ru: п
+uk: п
+tr: I
+id: p
+zh: 引
+mal: ആ.
+vi: GT
+fa: پ
+de: i
+az: g
+ar: مق
+hi: प.
+te: ప
+ms: i
+bo: i
+
+$ Settings_Glossary_Words
+en: Show glossary words
+fr: Montrer mots du glossaire
+hi: शब्दकोश के शब्दों दिखाएं
+te: పదకోశంలోని పదాలు
+fa: نمایش دادن واژه نامه
+es: Mostrar palabras del glosario
+ru: Показывать слова из словаря
+bo: ཚིག་མཛོད་སྟོན།
+
