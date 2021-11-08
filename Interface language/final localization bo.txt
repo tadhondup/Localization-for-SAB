@@ -3492,7 +3492,7 @@ hi: प.
 te: ప
 ms: i
 nl: i
-bo: i
+bo: ལེའུ།
 
 $ Settings_Glossary_Words
 en: Show glossary words
