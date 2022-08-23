@@ -1,6 +1,6 @@
 # Interface Translations
-# Scripture App Builder 9.1.1
-# Created: 16-12月-2021 09:45:59
+# Scripture App Builder 9.2.1
+# Created: 08-Feb-2022 15:47:28
 
 [Translations]
 
@@ -194,6 +194,7 @@ id: Unduhan
 ar: التنزيلات
 nl: Downloads
 ta: பதிவிறக்கங்கள்
+ru: Загрузки
 bo: ཕབ་ལེན།
 
 $ Menu_Edit
@@ -273,6 +274,8 @@ bo: མདུན་ངོས།
 
 $ Menu_Reset_Contents
 en: Reset Contents
+fr: Réinitialiser le contenu
+ru: Сбросить настройки содержания
 bo: ནང་དོན་བསྐྱར་སྒྲིག
 
 $ Menu_Item_Copy
@@ -283,6 +286,7 @@ pt: Copiar
 ar: نسخ
 nl: Kopiëren
 ta: நகல் எடு
+ru: Копировать
 bo: ངོ་བཤུ།
 
 $ Menu_Item_Share
@@ -294,6 +298,7 @@ id: Bagikan
 ar: مشاركة
 nl: Delen
 ta: பகிர்
+ru: Поделиться
 bo: བརྒྱུད་སྐུར།
 
 $ Menu_Item_Image
@@ -304,6 +309,7 @@ pt: Imagem
 ar: صورة
 nl: Afbeelding
 ta: நிழற்படம்
+ru: Картинка
 bo: འདྲ་པར།
 
 $ Annotation_Bookmarks
@@ -720,6 +726,7 @@ id: Bagikan
 ar: مشاركة
 nl: Delen
 ta: பகிர்
+ru: Поделиться
 bo: བརྒྱུད་སྐུར།
 
 $ Button_Start
@@ -790,6 +797,7 @@ id: Baca
 ar: قراءة
 nl: Lezen
 ta: படிக்க
+ru: Читать
 bo: ཀློག
 
 $ Button_Listen
@@ -801,6 +809,7 @@ id: Dengar
 ar: إستماع
 nl: Luisteren
 ta: கேட்க
+ru: Слушать
 bo: ཉན།
 
 $ Button_Create_Image
@@ -812,7 +821,32 @@ id: Membuat Gambar
 ar: إنشاء صورة
 nl: Afbeelding maken
 ta: வசனப்படம் செய்
+ru: Фотоцитата
 bo: འདྲ་པར་བཟོ།
+
+$ Button_Audio_Play
+en: Play
+bo: གཏོང་།
+
+$ Button_Audio_Pause
+en: Pause
+bo: ངང་འཐེན།
+
+$ Button_Audio_Forward
+en: Forward
+bo: མདུན་སྐྱོད།
+
+$ Button_Audio_Back
+en: Back
+bo: ཕྱིར་ལྡོག
+
+$ Button_Audio_Forward_Section
+en: Forward Section
+bo: མདུན་སྐྱོད་ཚན་པ།
+
+$ Button_Audio_Back_Section
+en: Back Section
+bo: ཕྱིར་ལྡོག་ཚན་པ།
 
 $ Date_Today
 en: Today
@@ -1262,6 +1296,7 @@ id: Telah lewat waktu, koneksi lambat.
 ar: مهلة التوصيل لسيرفر الصوت أنتهت
 nl: Onderbreking
 ta: இணையத் தொடர்பு சரியாக இயங்கவில்லை.
+ru: Время соединения с аудиосервером истекло
 bo: སྒྲའི་གསོག་སྣོད་ལ་མཐུད་པའི་དུས་ཚོད་ཡོལ་སོང་།
 
 $ Audio_Downloading
@@ -1486,11 +1521,13 @@ bo: བརྙན་བཟོ་བཞིན་ཡོད།
 $ App_Downloading_App
 en: Downloading App...
 fr: Téléchargement de l'application...
+ru: Приложение загружается…
 bo: མཉེན་ཆས་ཕབ་ལེན་བྱེད་བཞིན་པ་་་
 
 $ App_File_Error
 en: Error processing downloaded app
 fr: Erreur de traitement de l'application téléchargée
+ru: При установке загруженного приложения произошла ошибка
 bo: མཉེན་ཆས་ཕབ་ལེན་ལ་གནད་དོན་བྱུང་སོང་།
 
 $ Selector_Book
@@ -1964,36 +2001,49 @@ bo: ཡེ་ཤུ་མ་ཤི་ཀའི་མཚན་(Jesus)ཚིག་
 $ Settings_Display_Images_In_Bible_Text
 en: Images in Bible text
 fr: Images dans le texte biblique
+es: Imágenes en texto bíblico
+ru: Картинки в библейском тексте
 bo: ཡེ་ཤུའི་གསུང་རབ་ནང་གི་འདྲ་པར་རྣམས།
 
 $ Settings_Display_Videos_In_Bible_Text
 en: Videos in Bible text
 fr: Vidéos dans le texte biblique
+es: Vídeos en texto bíblico
+ru: Видео в библейском тексте
 bo: ཡེ་ཤུའི་གསུང་རབ་ནང་གི་བརྙན་པར་རྣམས།
 
 $ Settings_Display_Images_Normal
 en: Show images
 fr: Montrer les images
+es: Mostrar imágenes
+ru: Показывать картинки
 bo: འདྲ་པར་རྣམས་སྟོན།
 
 $ Settings_Display_Images_Hidden
 en: Hide images
 fr: Cacher les images
+es: Ocultar imágenes
+ru: Скрывать картинки
 bo: འདྲ་པར་རྣམས་སྦེད།
 
 $ Settings_Display_Videos_Normal
 en: Show normal size
 fr: Montrer en taille normale
+es: Mostrar tamaño normal
+ru: Смотреть полномасштабные видео
 bo: རྒྱུན་ལྡན་གྱི་ཆེ་ཆུང་ལྟར་སྟོན།
 
 $ Settings_Display_Videos_Small
 en: Show small size
 fr: Montrer en petite taille
+ru: Смотреть видео уменьшенного размера
 bo: ཆུང་བ་སྟོན།
 
 $ Settings_Display_Videos_Hidden
 en: Hide videos
 fr: Cacher les vidéos
+es: Ocultar videos
+ru: Скрывать видео
 bo: བརྙན་རྣམས་སྦེད།
 
 $ Settings_Show_Border
@@ -2368,6 +2418,7 @@ id: Mengunduh atau streaming
 ar: تنزيل أو بث الصوت
 nl: Geluidsbestand downloaden of streamen
 ta: ஒலிவடிவ வசன பதிவிறக்கம் (அ) இயக்கம்
+ru: Загружать аудиофайлы или слушать потоковое аудио
 bo: སྒྲ་ཕབ་ལེན་བྱེད་དམ། ཡང་ན་སྒྲ་མུ་མཐུད་ནས་
 
 $ Settings_Audio_Access_Method_Download
@@ -2377,6 +2428,7 @@ id: Unduh file-file audio
 ar: تنزيل ملفات الصوت
 nl: Geluidsbestanden downloaden
 ta: பதிவிறக்க முறையில்
+ru: Загружать аудиофайлы
 bo: སྒྲ་ཕབ་ལེན།
 
 $ Settings_Audio_Access_Method_Stream
@@ -2386,6 +2438,7 @@ id: Stream audio
 ar: جريان ملفات الصوت
 nl: Geluidsbestanden streamen
 ta: இயக்க முறையில்
+ru: Слушать потоковое аудио
 bo: སྒྲ་མུ་མཐུད་ནས་
 
 $ Settings_Audio_Download_Mode
@@ -2559,6 +2612,7 @@ id: Akun saya
 ar: حسابي
 nl: Mijn account
 ta: எனது விவரம்
+ru: Мой аккаунт
 bo: ངའི་ཐོ་གཞུང་།
 
 $ Account_Sign_In_Title
@@ -2568,6 +2622,7 @@ id: Masuk
 ar: الدخول لحسابي
 nl: Inlognaam
 ta: உள்ளே செல்தல்
+ru: Авторизация
 bo: ནང་འཛུལ་བྱོས།
 
 $ Account_Sign_In_Button
@@ -2577,6 +2632,7 @@ id: Masuk
 ar: الدخول لحسابي
 nl: Inloggen
 ta: உட்புகு
+ru: Авторизоваться
 bo: ནང་འཛུལ་བྱོས།
 
 $ Account_Sign_Up_Title
@@ -2586,6 +2642,7 @@ id: Daftar
 ar: تسجيل حساب
 nl: Inschrijfnaam
 ta: பதிந்து கொள்தல்
+ru: Регистрация
 bo: ཐོ་གཞུང་གསར་བཟོ།
 
 $ Account_Sign_Up_Button
@@ -2594,6 +2651,7 @@ fr: S'inscrire
 id: Daftar
 nl: Inschrijven
 ta: பதியவும்
+ru: Зарегистрироваться
 bo: ཐོ་གཞུང་གསར་བཟོ།
 
 $ Account_Sign_Out_Button
@@ -2603,11 +2661,13 @@ id: Keluar
 ar: تسجيل حساب
 nl: Uitloggen
 ta: வெளியேறு
+ru: Выйти
 bo: ཕྱིར་ཐོན།
 
 $ Account_Sign_Out_Button_Confirmation
 en: Do you want to sign out?\n\nAny new highlights, notes and bookmarks will not be saved to your account.
 fr: Voulez-vous vous déconnecter ?\n\nLes nouveaux surlignements, notes et signets ne seront pas enregistrés sur votre compte.
+ru: Вы хотите завершить сессию?\n\n Внесённые изменения, заметки и закладки не сохранятся в вашем аккаунте.
 bo: ཁྱེད་རང་ཕྱིར་ཐོན་བྱ་རྒྱུ་ཡིན་ནམ།\n\n ཁྱེད་ཀྱི་ཁ་བྱང་ནང་མཆན་བཏབ་པ་དང་འདེམས་རྟགས་བརྒྱབ་པ། དཔེ་རྟགས་གསར་བ་བཀོད་པའི་རིགས་གཅིག་ཀྱང་ཉར་ཚགས་མི་བྱེད།
 
 $ Account_Full_Name
@@ -2617,6 +2677,7 @@ id: Nama Lengkap
 ar: الاسم بالكامل
 nl: Volledige naam
 ta: முழுபெயர்
+ru: Полное имя
 bo: ཁྱེད་ཀྱི་མིང་།
 
 $ Account_Email_Address
@@ -2626,6 +2687,7 @@ id: alamat email
 ar: عنوان البريد الإلكتروني
 nl: Emailadres
 ta: மின்னஞ்சல்
+ru: Адрес электронной почты
 bo: གློག་འཕྲིན་ཁ་བྱང་།
 
 $ Account_Password
@@ -2635,6 +2697,7 @@ id: Kata Sandi
 ar: كلمة المرور
 nl: Wachtwoord
 ta: கடவுச்சொல்
+ru: Пароль
 bo: གསང་ཚིག
 
 $ Account_Confirm_Password
@@ -2644,6 +2707,7 @@ id: Konfirmasi Kata Sandi
 ar: تأكيد كلمة المرور
 nl: Wachtwoord bevestigen
 ta: கடவுச்சொல்லை உறுதிசெய்
+ru: Подтвердите пароль
 bo: གཏན་འཁེལ་གསང་ཚིག
 
 $ Account_Forgot_Password
@@ -2653,11 +2717,13 @@ id: Lupa Kata Sandi?
 ar: هل نسيت كلمة المرور
 nl: Wachtwoord vergeten?
 ta: கடவுச்சொல்லை மறந்துவிட்டீர்களா?
+ru: Забыли пароль?
 bo: གསང་ཚིག་བརྗེད་སོང་ངམ།
 
 $ Account_Reset_Password
 en: Reset Password
 fr: Réinitialiser mot de passe
+ru: Сбросить пароль
 bo: གསང་ཚིག་བསྐྱར་སྒྲིག
 
 $ Account_Change_Password
@@ -2667,6 +2733,7 @@ id: Merubah Kata Sandi
 ar: تغيير كلمة المرور
 nl: Wachtwoord veranderen
 ta: கடவுச்சொல்லை மாற்று
+ru: Изменить пароль
 bo: གསང་ཚིག་བརྗེ།
 
 $ Account_Current_Password
@@ -2676,6 +2743,7 @@ id: Kata Sandi Sekarang
 ar: كلمة المرور الحالية
 nl: Huidig wachtwoord
 ta: தற்போதைய கடவுச்சொல்
+ru: Текущий пароль
 bo: ད་ལྟའི་གསང་ཚིག
 
 $ Account_New_Password
@@ -2685,6 +2753,7 @@ id: Kata Sandi Baru
 ar: كلمة المرور الجديدة
 nl: Nieuw wachtwoord
 ta: புதிய கடவுச்சொல்
+ru: Новый пароль
 bo: གསང་ཚིག་གསར་པ།
 
 $ Account_Confirm_New_Password
@@ -2694,31 +2763,37 @@ id: Konfirmasi Kata Sandi Baru
 ar: تأكيد كلمة المرور
 nl: Nieuw wachtwoord bevestigen
 ta: புதிய கடவுச்சொல்லை உறுதிசெய்
+ru: Подтвердить новый пароль
 bo: གཏན་འཁེལ་གསང་ཚིག་གསར་པ།
 
 $ Account_Change_Profile
 en: Change Profile
 fr: Modifier profil
+ru: Изменить профиль
 bo: གནས་ཚུལ་བསྐྱར་བཅོས།
 
 $ Account_Enter_Password
 en: Enter Password
 fr: Saisir mot de passe
+ru: Введите пароль
 bo: གསང་ཚིག་ཞོག
 
 $ Account_Save_Changes_Button
 en: Save Changes
 fr: Enregistrer
+ru: Сохранить изменения
 bo: གསང་ཚིག་ཉོར།
 
 $ Account_Delete_Account
 en: Delete Account
 fr: Supprimer compte
+ru: Удалить аккаунт
 bo: གསང་ཚིག་སུབ།
 
 $ Account_Delete_Account_Confirmation
 en: Do you want to delete your account?\n\nAll your saved highlights, notes and bookmarks will be deleted.
 fr: Voulez-vous supprimer votre compte ? Tous les surlignements, notes et signets que vous avez enregistrés seront supprimés.
+ru: Вы хотите удалить свой аккаунт?\n\nВсе внесенные вами изменения, заметки и закладки будут удалены.
 bo: ཁྱེད་ཀྱི་ཁ་བྱང་བསུབ་རྒྱུ་ཡིན་ནམ།\n\nཁྱེད་ཀྱིས་ཉར་ཚགས་བྱས་པའི་འདེམ་རྟགས་བརྒྱབ་པ་དང་མཆན་བཏབ་པ། དཔེ་རྟགས་བཀོད་པ་ཚང་མ་བསུབ་འགྲོ།
 
 $ Account_Login_Page_Heading
@@ -2728,6 +2803,7 @@ id: Masuk atau Daftar
 ar: الدخول للحساب أو تسجيل حساب
 nl: Inloggen
 ta: உள்ளேபுகு (அ) பதிவு செய்
+ru: Авторизоваться или зарегистрироваться
 bo: ནང་འཛུལ་བྱ་རྒྱུ་ཡིན་ནམ། ཡང་ན་ཐོ་གཞུང་གསར་བཟོ་བྱ་རྒྱུ་ཡིན།
 
 $ Account_Login_Page_Info
@@ -2736,6 +2812,7 @@ fr: Vous pouvez enregistrer vos surlignements, vos notes et vos signets - et les
 id: Anda bisa menyimpan sorotan, catatan, dan bookmark - dan sinkronisasinya dengan perangkat lain.
 nl: Je kunt hoogtepunten, aantekeningen en bladwijzers opslaan en synchroniseren met andere apparaten.
 ta: நீங்கள் உங்கள் எடுத்து வைத்த குறிப்புகளையும் மேற்கோள்களையும் மற்றவர்களுடைய சாதனத்திற்கு அனுப்பலாம்
+ru: Вы можете сохранять выделение цветом, заметки, закладки и историю и синхронизировать это с другими устройствами.
 bo: འདེམ་རྟགས་བཀོད་པ་དང་མཆན་བཏབ་པ་དཔེ་རྟགས་བཀོད་པ་བཅས་ཁྱེད་ཀྱིས་ཉར་ཚགས་བྱ་ཐུབ་ཅིང་། དེ་དག་འཕྲུལ་ཆས་གཞན་དང་མཐུད་ཀྱང་ཐུབ་པ་ཡིན།
 
 $ Account_Logged_In_Page_Info
@@ -2744,86 +2821,103 @@ fr: Vos surlignements, notes et signets sont enregistrés sur votre compte lorsq
 id: Sorotan, catatan dan bookmark Anda akan disimpan di akun Anda ketika tersambung ke internet.
 nl: Hoogtepunten, aantekeningen en bladwijzers worden bewaard bij internetverbinding.
 ta: உங்களது சாதனம் இணையத் தொடர்பில் இருக்கும்போது உங்களது குறிப்புகளும் மேற்கோள்களும் வைத்து வைக்கப்படும்
+ru: Выделение цветом, заметки, закладки и история будут сохранены в вашем аккаунте при подключении к интернету.
 bo: ཁྱེད་དྲ་རྒྱ་ལ་མཐུད་དུས་ཁྱེད་ཀྱི་འདེམ་རྟགས་བཀོད་པ་དང་མཆན་བཏབ་པ་དཔེ་རྟགས་བརྒྱབ་པ་དང་བཅས་པ་ཁྱེད་ཀྱི་ཐོ་གཞུང་ནང་ཉར་འགྲོ།
 
 $ Account_Message_Enter_Name
 en: Please enter your name.
 fr: Veuillez saisir votre nom.
+ru: Введите, пожалуйста, ваше имя.
 bo: ཁྱེད་ཀྱི་མིང་འབྲི་རོགས།
 
 $ Account_Message_Enter_Valid_Email
 en: Please enter a valid email address.
 fr: Veuillez entrer une adresse e-mail valide.
+ru: Просьба ввести действительный электронный адрес.
 bo: ཁྱེད་ཀྱི་གློག་འཕྲིན་ཚུལ་མཐུན་ཞིག་འཇོག་རོགས།
 
 $ Account_Message_Enter_Valid_Password
 en: Please enter a valid password. Passwords must have at least six characters and can contain letters, numbers and punctuation.
 fr: Veuillez saisir un mot de passe valide. Les mots de passe doivent comporter au moins six caractères et peuvent contenir des lettres, des chiffres et des signes de ponctuation.
+ru: Просьба ввести действительный пароль. Пароль должен быть не короче шести знаков и может содержать буквы, цифры и знаки пунктуации.
 bo: ཚུལ་མཐུན་གྱི་གསང་ཚིག་ཅིག་འཇོག་རོགས། གསང་ཚིག་ནང་གསལ་བྱེད་དང་ཨང་གྲངས་རྐྱེན་གྱི་ཡི་གེ་བཅས་འདུས་ཡོད་པའི་ཡིག་འབྲུ་ཉུང་མཐར་དྲུག་ངེས་པར་ཡོད་དགོས།
 
 $ Account_Message_Enter_Email_And_Password
 en: Please enter your email address and password.
 fr: Veuillez saisir votre adresse e-mail et votre mot de passe.
+ru: Просьба ввести электронный адрес и пароль.
 bo: ཁྱེད་ཀྱི་གློག་འཕྲིན་དང་གསང་ཚིག་འཇོག་རོགས།
 
 $ Account_Message_Passwords_Not_Matching
 en: Your password confirmation did not match your new password. Please try again.
 fr: La confirmation de votre mot de passe ne correspond pas à votre nouveau mot de passe. Veuillez réessayer.
+ru: Подтверждённый пароль не совпадает с вашим новым паролем. Попробуйте ещё раз.
 bo: ཁྱེད་ཀྱི་གཏན་འཁེལ་གསང་ཚིག་དེ་ཁྱེད་ཀྱི་གསང་ཚིག་གསར་པ་དང་མཚུངས་མ་སོང་། བསྐྱར་དུ་ཚོད་ལྟ་བྱ་རོགས།
 
 $ Account_Message_Incorrect_Email_Password
 en: Sorry, we cannot find this email address and/or password. Please try again.
 fr: Désolé, nous ne trouvons pas cette adresse e-mail et/ou ce mot de passe. Veuillez réessayer.
+ru: Введённый адрес электронной почты и/или пароль не найдены. Попробуйте ещё раз.
 bo: དགོངས་དག ང་ཚོས་གློག་འཕྲིན་འདི་དང་/ཡང་ན་གསང་ཚིག་གང་རུང་ཞིག་རྙེད་མ་སོང་། བསྐྱར་དུ་ཚོད་ལྟ་བྱ་རོགས།
 
 $ Account_Message_Sign_In_Error
 en: Sorry, we were unable to sign you in.
 fr: Désolé, nous n'avons pas pu vous connecter.
+ru: К сожалению, попытка входа не удалась.
 bo: དགོངས་དག ང་ཚོས་ཁྱེད་རང་ནང་འཇུག་བྱ་ཐུབ་མ་སོང་།
 
 $ Account_Message_Sign_Up_Error
 en: Sorry, we were unable to sign you up.
 fr: Désolé, nous n'avons pas pu vous inscrire.
+ru: К сожалению, регистрация не прошла.
 bo: དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་ཐོ་གཞུང་གསར་བཟོ་བྱ་ཐུབ་མ་སོང་།
 
 $ Account_Message_Database_Error
 en: Please report the following database error:
 fr: Veuillez signaler l'erreur suivante :
+ru: Пожалуйста, сообщите об ошибке базы данных:
 bo: གཤམ་གསལ་གྱི་གཞི་གྲངས་མཛོད་ཀྱི་གནད་དོན་ཡར་ཞུ་བྱ་རོགས།
 
 $ Account_Message_Change_Password_Error
 en: Sorry, we were unable to change your password.
 fr: Désolé, nous n'avons pas pu modifier votre mot de passe.
+ru: К сожалению, попытка изменить пароль не удалась.
 bo: དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་གསང་ཚིག་བརྗེ་ཐུབ་མ་སོང་།
 
 $ Account_Message_Change_Profile_Error
 en: Sorry, we were unable to change your profile.
 fr: Désolé, nous n'avons pas pu modifier votre profil.
+ru: К сожалению, попытка изменения профиля не удалась.
 bo: དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་གནས་ཚུལ་བསྒྱུར་བཅོས་བྱ་ཐུབ་མ་སོང་།
 
 $ Account_Message_Check_Internet
 en: Please check your internet connection.
 fr: Veuillez vérifier votre connexion Internet.
+ru: Проверьте, пожалуйста, ваше соединение с интернетом.
 bo: ཁྱེད་རང་སྐུད་མེད་དྲ་ལ་མཐུད་ཡོད་མེད་བལྟ་རོགས།
 
 $ Account_Message_Reset_Password_Email_Sent
 en: We have sent you an email to reset your password.
 fr: Nous vous avons envoyé un courriel pour réinitialiser votre mot de passe.
+ru: Мы отправили вам email для изменения вашего пароля.
 bo: ང་ཚོས་ཁྱེད་ལ་གསང་ཚིག་བསྐྱར་སྒྲིག་བྱ་སའི་གློག་འཕྲིན་ཞིག་བཏང་ཡོད།
 
 $ Account_Message_Email_Already_In_Use
 en: This email address is already in use.
 fr: Cette adresse e-mail est déjà utilisée.
+ru: Этот email уже используется.
 bo: གློག་འཕྲིན་འདི་ད་སྔ་ནས་འདིའི་ནང་བཀོལ་སྤྱོད་བྱས་འདུག
 
 $ Account_Message_Delete_Account_Error
 en: Sorry, we were unable to delete your account.
 fr: Désolé, nous n'avons pas pu supprimer votre compte.
+ru: К сожалению, удалить ваш аккаунт не удаётся.
 bo: དགོངས་དག ང་ཚོས་ཁྱེད་ཀྱི་ཐོ་གཞུང་བསུབ་ཐུབ་མ་སོང་།
 
 $ Account_Message_Delete_Account_Success
 en: Your account was deleted successfully.
 fr: Votre compte a été supprimé avec succès.
+ru: Ваш аккаунт успешно удалён.
 bo: ཁྱེད་ཀྱི་ཐོ་གཞུང་བདེ་ལེགས་ངང་བསུབས་ཡོད།
 
 $ Notification_Verse_Of_The_Day_Title
@@ -2862,6 +2956,7 @@ fr: Messages
 id: Pesan
 nl: Berichten
 ta: தகவல்கள்
+ru: Сообщения
 bo: འཕྲིན་ཐུང་།
 
 $ Notification_Channel_Name_Verse_Of_The_Day
@@ -2871,6 +2966,7 @@ es: Versículo del día
 id: Nats Harian
 nl: Vers van de dag
 ta: இன்றைய வசனம்
+ru: Стих дня
 bo: ཉིན་དེའི་ཤོ་ལོ་ཀ
 
 $ Notification_Channel_Name_Daily_Reminder
@@ -2880,6 +2976,7 @@ es: Recordatorio diario
 id: Peringatan Harian
 nl: Dagelijkse herinnering
 ta: இன்றைய வேத வாசிப்பு
+ru: Ежедневное напоминание
 bo: ཉིན་རེའི་དྲན་གསོ།
 
 $ Notification_Channel_Name_Images
@@ -2890,6 +2987,7 @@ pt: Imagens
 id: Gambar
 nl: Afbeeldingen
 ta: படங்கள்
+ru: Изображения
 bo: འདྲ་པར་ཁག
 
 $ Notification_Please_Allow
@@ -2986,6 +3084,7 @@ id: Video telah disimpan
 ar: تم حفظ الفيديو
 nl: Video opgeslagen
 ta: வசனக் காணொளி சேர்த்துவைக்கப்பட்டது
+ru: Видео сохранено
 bo: བརྙན་ཉར་ཡོད།
 
 $ Text_On_Image_Save_Image
@@ -2995,6 +3094,7 @@ id: Simpan Gambar
 ar: حفظ الصورة
 nl: Afbeelding opslaan
 ta: வசனப் படத்தை சேர்த்துவை
+ru: Сохранить картинку
 bo: འདྲ་པར་ཉོར།
 
 $ Text_On_Image_Save_Video
@@ -3004,6 +3104,7 @@ id: Simpan Video
 ar: حفظ الفيديو
 nl: Video opslaan
 ta: வசனக் காணொளியைச் சேர்த்துவை
+ru: Сохранить видео
 bo: བརྙན་ཉོར།
 
 $ Crop_Image_Title
@@ -3013,6 +3114,7 @@ id: Potong Pinggir Gambar
 ar: قص من الصورة
 nl: Afbeelding bijsnijden
 ta: வசனப் படத்தை சீர்படுத்துதல்
+ru: Обрезать картинку
 bo: འདྲ་པར་གཏུབ།
 
 $ Edit_Text_On_Image_Title
@@ -3022,6 +3124,7 @@ id: Edit Teks
 ar: تعديل النص
 nl: Tekst bewerken
 ta: வசனத்தை சீர்படுத்துதல்
+ru: Редактировать текст
 bo: ཡིག་ཆ་སྒྲིག
 
 $ Book_Group_OT
@@ -3095,6 +3198,8 @@ bo: ཟུང་ལྡན།
 $ Layout_Screen_Title
 en: Select Language & Layout
 fr: Langue et agencement
+ru: Выберите язык и разметку
+bo: སྐད་ཡིག་འདམས་ཏེ་མཉམ་འཇུག་བྱོས།
 
 $ Layout_Single_Pane
 en: Single Pane
@@ -3142,7 +3247,7 @@ hi: आयत बय आयत
 te: వచనం తరవాత వచనం
 ko: 절별
 ta: வசனத்தின் பின் வசனமாக
-bo: ཤོ་ལོ་ཀ་གཅིག་ནས་གཅིག་བརྒྱུད།
+bo: ཤོ་ལོ་ཀ་སྤེལ་མ།
 
 $ Editor_Insert
 en: Insert Marker
@@ -3239,6 +3344,16 @@ hi: अन्य  (\\)
 te: ఇతర (\\)
 ko: 추가 (\\)
 bo: གཞན། (\\)
+
+$ Quiz_Score_Page_Message_Before
+en: You scored
+fr: Vous avez obtenu un score de
+bo: ཁྱེད་ཀྱིས་ཐོབ་སྐར་བླངས་སོང་།
+
+$ Quiz_Score_Page_Message_After
+en: out of %n% questions
+fr: sur %n% questions
+bo: དྲི་བའི་ %n% ལས་ཐོན་སོང་།
 
 $ Text_Copied
 en: Text copied
@@ -3338,21 +3453,25 @@ bo: PIN གསང་ཨང་ནོར་འདུག
 $ User_Missing_Fields
 en: Please complete the following fields to continue:
 fr: Veuillez remplir les champs suivants pour continuer :
+ru: Чтобы продолжить, заполните следующие поля:
 bo: རྒྱུན་མཐུད་པར་གཤམ་བཀོད་ཀྱི་ལས་ཚན་རྣམས་ཆ་ཚང་བསྒྲུབ་རོགས།
 
 $ User_Check_Internet
 en: Please check that you have an internet connection, then press the button again to continue.
 fr: Veuillez vérifier que vous disposez d'une connexion Internet, puis appuyez à nouveau sur le bouton pour continuer.
+ru: Проверьте ваше соединение с интернетом и нажмите ещё раз, чтобы продолжить.
 bo: ཁྱེད་རང་དྲ་རྒྱར་མཐུད་ཡོད་མེད་བལྟ་རོགས། དེ་ནས་གནོན་ཐེབས་ལ་བསྣུན་ཏེ་མུ་མཐུད།
 
 $ User_Database_Sign_In_Error
 en: Sorry, we were unable to sign in to the database server.
 fr: Désolé, nous n'avons pas pu nous connecter au serveur de la base de données.
+ru: К сожалению, войти на сервер базы данных не удалось.
 bo: དགོངས་དག ང་ཚོས་གཞི་གྲངས་བརྟེན་གནས་ཀྱི་གསོག་མཛོད་ནང་ནང་འཛུལ་བྱ་ཐུབ་མ་སོང་།
 
 $ User_Database_Add_User_Error
 en: Sorry, we were unable to add this information to the online database.
 fr: Désolé, nous n'avons pas pu ajouter cette information à la base de données en ligne.
+ru: К сожалению, добавить информацию к базе данных онлайн не удалось.
 bo: དགོངས་དག ང་ཚོས་གནས་ཚུལ་འདི་དྲ་ཐོག་གཞི་གྲངས་རྟེན་གནས་ནང་བསྣུན་ཐུབ་མ་སོང་།
 
 $ Language_en
@@ -3470,6 +3589,7 @@ $ Language_nl
 en: Dutch
 fr: Néerlandais
 nl: Nederlands
+ru: Голландский
 bo: ཌ་ཆིའི་སྐད་ཡིག
 
 $ Language_pt
@@ -3790,6 +3910,7 @@ id: Maaf, perangkat ini tidak ada izin menggunakan aplikasi ini.
 ar: هذا الجهاز ليس لديه أذن لإستخدام هذا التطبيق
 nl: Dit apparaat heeft geen toestemming om deze app te gebruiken.
 ta: இந்த செயலியை பயன்படுத்த இந்த சாதனத்தில் அனுமதி கொடுக்கப்படவில்லை
+ru: Устройство не имеет разрешения использовать это приложение
 bo: མཉེན་ཆས་འདི་སྒྲིག་ཆས་འདིའི་ནང་བཀོལ་སྤྱོད་ཀྱི་ཆོག་མཆན་མི་འདུག
 
 $ iOS_Photo_Library_Usage_Description
@@ -3800,6 +3921,7 @@ id: supaya Anda diberikan pilihan gambar latar belakang
 ar: يمكننا منحك الإختيار لصورة الخلفية
 nl: zodat we je een keuze aan achtergrondafbeeldingen kunnen geven
 ta: அதனால் இந்தப் படங்களை உங்களுக்குத் தருகிறோம்
+ru: чтобы предоставить вам выбор фоновых изображений
 bo: དེར་བརྟེན་ང་ཚོས་ཁྱེད་ལ་རྒྱབ་ལྗོངས་ཀྱི་འདྲ་པར་ཁག་གི་འདེམ་ཁ་ཞིག་སྤྲད་ཆོག
 
 $ iOS_Photo_Library_Add_Usage_Description
@@ -3810,6 +3932,5 @@ ar: يمكننا حفظ الصورة التي أنشأتها
 bo: དེར་བརྟེན་ང་ཚོས་ཁྱེད་ཀྱིས་བཟོས་པའི་འདྲ་པར་ཉར་ཆོག
 
 $ Language_bo
-en: Tibetan
 bo: བོད་སྐད།
 
